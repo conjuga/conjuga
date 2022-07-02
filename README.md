@@ -5,7 +5,7 @@ If French is the first foreign language you have studied, the term "conjugation"
 "Conjuga" can help you achieve that quickly.
 Download on the App Store now: https://apps.apple.com/us/app/id1469234408
 
-![Drag Racing](https://github.com/Conjugation/Conjugation/blob/bbedd40d98665499edf1b8ee83bd30cd3e9fd3c7/assets/img/logo.png)
+![Drag Racing](https://github.com/conjuga/conjuga/blob/85c7ce2107a9eaaf2d0c308d1bce33b88149648e/assets/img/logo.png)
 
 
 - [Conjugation app](https://conjugation.app)

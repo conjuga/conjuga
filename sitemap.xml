@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-	xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-  <loc>https://conjugation.app/</loc>
-  <loc>https://conjugation.app/#download</loc>
-  <loc>https://conjugation.app/#features</loc>
-  <loc>https://conjugation.app/#contact</loc>
-
-  <loc>https://terms.conjugation.app</loc>
-  <loc>https://privacy.conjugation.app</loc>
-  
-  <loc>https://apps.apple.com/us/app/id1469234408</loc>
-  <lastmod>2021-06-04T18:50:29+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://www.conjuga.app/</loc>
+      <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
 </urlset>

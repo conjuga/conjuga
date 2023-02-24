@@ -1,4 +1,4 @@
 User-agent: *
 allow: /
 
-Sitemap : https://conjugation.app/sitemap.xml
+Sitemap : https://conjuga.app/sitemap.xml

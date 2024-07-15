@@ -1,0 +1,27 @@
+# Top Menu
+topmenu:
+
+- title: Conjugation
+  url: ""
+
+- title: App
+  url: "app/"
+
+- title: Contact
+  url: "contact/"
+
+# Footer Menu
+footermenu:
+
+- title: Conjugation
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Contact
+  url: "contact/"
+
+- title: Download
+  url: https://conjuga.app.link/VlkyCxUWOKb
+  external: true

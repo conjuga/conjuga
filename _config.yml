@@ -1,0 +1,59 @@
+title: "French conjugation"
+email: app@conjuga.app
+timezone: UTC
+baseurl: ""
+permalink: "/:categories/:year/:month/:day/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Conjuga
+paginate: 30
+disqus: 'conjuga'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: weakly
+feed_update_frequency: 2
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+
+# Ensure this line is present:
+url: "https://conjuga.app"
+
+# Authors
+authors:
+  Conjuga:
+    name: conjuga
+    display_name: conjuga
+    avatar: 'assets/images/logo.png'
+    email: contact@conjuga.app
+    form_endpoint: https://formspree.io/f/mdknkdew
+    web: https://conjuga.app
+    twitter: https://twitter.com/conjapp
+    description: "Master French Verb Conjugations with our daily updates! Our site offers comprehensive guides and examples for conjugating the most commonly used French verbs. Whether you’re a beginner or advanced learner, our detailed posts in the present tense will help you improve your French language skills. Enhance your learning experience with our user-friendly French Conjugation App. Join us and become fluent in French through consistent practice and expert guidance."
+
+
+# Social
+social:
+  instagram: "https://www.instagram.com/conjuga.app/"
+  facebook: "https://www.facebook.com/conjugapp"
+  twitter: "https://x.com/conjapp"
+  tiktok: "https://www.tiktok.com/@frenchconjugation"
+  youtube: "https://www.youtube.com/@conjuga"
+
+# App Store Url
+appStore:
+  url: "https://conjuga.app.link/VlkyCxUWOKb"
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

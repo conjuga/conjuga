@@ -1,0 +1,33 @@
+
+.content {
+  padding: 20px;
+}
+
+.sidebar-section {
+  text-align: center;
+}
+
+.slider {
+  position: relative;
+  width: 100%;
+  max-width: 300px; /* Set the width of the slider */
+  margin: auto;
+  overflow: hidden;
+  border: 2px solid #ddd; /* Optional: add a border */
+  border-radius: 8px; /* Optional: rounded corners */
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+.slide img {
+  width: 100%;
+  border-radius: 8px; /* Optional: rounded corners for images */
+}

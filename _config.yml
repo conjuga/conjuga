@@ -1,5 +1,6 @@
 title: "French conjugation"
-email: app@conjuga.app
+description: "Master French Verb Conjugations with our daily updates! Our site offers comprehensive guides and examples for conjugating the most commonly used French verbs. Whether you’re a beginner or advanced learner, our detailed posts in the present tense will help you improve your French language skills. Enhance your learning experience with our user-friendly French Conjugation App. Join us and become fluent in French through consistent practice and expert guidance."
+email: contact@conjuga.app
 timezone: UTC
 baseurl: ""
 permalink: "/:categories/:year/:month/:day/:title/"

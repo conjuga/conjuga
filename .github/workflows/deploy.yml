@@ -48,5 +48,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-      - name: Clean up backup
-        run: rm README.md
+    - name: Run a script
+  run: |
+    echo "Hello, World!"

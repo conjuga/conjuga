@@ -9,6 +9,15 @@
 
 <title>{{ page.title }} | {{site.title}}</title>
 
+
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords }} | {{ site.keywords }}">
+{% else %}
+<meta name="keywords" content="{{ site.keywords }}">
+{% endif %}
+
+
+
 {% seo %}
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
@@ -23,10 +32,24 @@
 
  <script type="application/ld+json">
   {
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "url": "https://conjuga.app"
-  }
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Conjuga",
+  "url": "https://www.conjuga.app",
+  "logo": "https://www.conjuga.app/assets/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/conjugapp",
+    "https://www.twitter.com/conjapp",
+    "https://x.com/conjapp",
+    "https://www.tiktok.com/@frenchconjugation",
+    "https://www.linkedin.com/company/conjugation/",
+    "https://apps.apple.com/fr/app/conjuga-conjugaison-française/id1469234408",
+    "https://apps.apple.com/us/app/conjuga-learn-french/id1469234408",
+    "https://apps.apple.com/us/app/conjuga/id1469234408",
+    "https://apps.apple.com/fr/app/conjuga-conjugaison-française/id1469234408",
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/fr/app/conjuga/id1469234408&ved=2ahUKEwinlNOH-bKHAxWscKQEHbYPDXQQFnoECBsQAQ&usg=AOvVaw2cs6NhCawBxiFx1KBP9qJv"
+  ]
+}
   </script>
   <script type="application/ld+json">
   {

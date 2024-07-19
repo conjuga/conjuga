@@ -28,13 +28,22 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Backup README.md
+        run: cp README.md README.md.bak
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
+
+      - name: Restore README.md
+        run: cp README.md.bak README.md
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
@@ -49,3 +58,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Clean up backup
+        run: rm README.md.bak

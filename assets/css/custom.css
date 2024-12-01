@@ -8,20 +8,20 @@ body {}
 /* Get the app button group */
 .btn-dark {
     color: #fff;
-    background-color: #3d61fd;
+    background-color: #01336d;
     border-color: #fff;
 }
 
 
 .hero {
-    background: #83C3FF;
+    background: #feb791;
     padding: 5rem 5rem;
 }
 
 
 .sidebar #mc_embed_signup .button {
     width: 100% !important;
-    background: #FE8482 !important;
+    background: #02326d !important;
     height: auto;
     padding: 6px 20px;
     font-weight: 600;
@@ -115,5 +115,19 @@ body {}
   text-decoration: none;
 }
 
+/* MailChimp Signup Form */
+#mc_embed_signup{
+  background:#fff; clear:left; 
+}
+
+
+.sidebar #mc_embed_signup h2 {
+    font-weight: 400;
+    font-size: 15px;
+    color: black;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+    text-align: center;
+}
 
 

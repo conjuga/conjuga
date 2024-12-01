@@ -1,6 +1,6 @@
 title: "French conjugation"
-description: "Master French Verb Conjugations with our daily updates! Our site offers comprehensive guides and examples for conjugating the most commonly used French verbs. Whether you’re a beginner or advanced learner, our detailed posts in the present tense will help you improve your French language skills. Enhance your learning experience with our user-friendly French Conjugation App. Join us and become fluent in French through consistent practice and expert guidance."
-keywords: "Conjuga, Conjuga app, French conjugation tool, French verbs app, Language learning app, Conjugation practice for French, Best app for French verbs, Learn French conjugation, French language learning tool"
+description: "Learn French verb conjugations effortlessly! Daily updates, examples, and an app to improve your skills fast!"
+keywords: "conjuga, conjuga app, french conjugation app, french verbs, learn french, french language"
 email: contact@conjuga.app
 timezone: UTC
 baseurl: ""
@@ -37,7 +37,7 @@ authors:
     form_endpoint: https://formspree.io/f/mdknkdew
     web: https://conjuga.app
     twitter: https://twitter.com/conjapp
-    description: "Master French Verb Conjugations with our daily updates! Our site offers comprehensive guides and examples for conjugating the most commonly used French verbs. Whether you’re a beginner or advanced learner, our detailed posts in the present tense will help you improve your French language skills. Enhance your learning experience with our user-friendly French Conjugation App. Join us and become fluent in French through consistent practice and expert guidance."
+    description: "Learn French verb conjugations effortlessly! Daily updates, examples, and an app to improve your skills fast!"
 
 
 # Social

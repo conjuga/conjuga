@@ -135,4 +135,7 @@
 <url>
 <loc>http://0.0.0.0:4000/privacy-policy/</loc>
 </url>
+<url>
+<loc>http://0.0.0.0:4000/vlogs/</loc>
+</url>
 </urlset>

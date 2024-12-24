@@ -1,5 +1,5 @@
 # Ignore macOS system files
 .DS_Store
-
+*.DS_Store
 # Ignore Synology system files
 @eaDir

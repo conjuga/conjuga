@@ -3,6 +3,7 @@ layout: post
 title: "French Verb Conjugation: Verbe Aller (to go) in Present Tense"
 date: 2024-07-13
 image: assets/images/verbs/a/verbe_aller_present_indicatif.png
+video: "https://www.youtube.com/embed/aSBgJqNegvI"
 categories: [French Conjugation]
 ---
 

@@ -1,0 +1,38 @@
+.content {
+  padding: 20px;
+}
+
+.sidebar-section {
+  text-align: center;
+}
+
+.slider {
+  position: relative;
+  width: 100%; /* Full width for responsiveness */
+  max-width: 600px; /* Increased max width for larger screens */
+  margin: auto;
+  overflow: hidden;
+  border: 2px solid #ddd; /* Optional: add a border */
+  border-radius: 8px; /* Optional: rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center; /* Center the content inside the slide */
+  align-items: center; /* Center vertically */
+}
+
+.slide img {
+  width: 100%; /* Image takes full width of its container */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Optional: rounded corners for images */
+  object-fit: cover; /* Ensures proper image scaling */
+}

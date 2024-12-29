@@ -8,6 +8,13 @@ categories: [French Conjugation]
 
 The verb **vouloir** is a very common and essential verb in French. Here are its present tense conjugations:
 
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
+
 - **Je veux** (I want)
 - **Tu veux** (You want)
 - **Il/Elle/On veut** (He/She/One wants)

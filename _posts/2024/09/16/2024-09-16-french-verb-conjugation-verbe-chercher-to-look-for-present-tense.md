@@ -6,9 +6,14 @@ image: assets/images/verbs/2024/09/16/verbe_chercher_present_indicatif.png
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Chercher (to look for) in Present Tense
-
 The verb **chercher** is used to describe the action of looking for something. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **Je cherche** (I look for)
 - **Tu cherches** (You look for)

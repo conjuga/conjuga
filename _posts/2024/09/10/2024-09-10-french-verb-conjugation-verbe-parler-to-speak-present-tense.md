@@ -6,9 +6,14 @@ image: assets/images/verbs/2024/09/10/verbe_parler_present_indicatif.png
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Parler (to speak) in Present Tense
-
 The verb **parler** is fundamental for communication in French. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **Je parle** (I speak)
 - **Tu parles** (You speak)

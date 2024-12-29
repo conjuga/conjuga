@@ -6,9 +6,14 @@ image: assets/images/verbs/2024/09/09/verbe_jouer_present_indicatif.png
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Jouer (to play) in Present Tense
-
 The verb **jouer** is commonly used in French. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **Je joue** (I play)
 - **Tu joues** (You play)

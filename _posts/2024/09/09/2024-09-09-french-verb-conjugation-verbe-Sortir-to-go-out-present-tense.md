@@ -6,9 +6,14 @@ image: assets/images/verbs/2024/09/09/verbe_sortir_present_indicatif.png
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Sortir (to go out) in Present Tense
-
 The verb **sortir** is commonly used in French. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **Je sors** (I go out)
 - **Tu sors** (You go out)

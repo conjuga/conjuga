@@ -6,9 +6,14 @@ image: assets/images/verbs/2024/09/09/verbe_essayer_present_indicatif.png
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Essayer (to try) in Present Tense
-
 The verb **essayer** is commonly used in French. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **J'essaie** (I try)
 - **Tu essaies** (You try)

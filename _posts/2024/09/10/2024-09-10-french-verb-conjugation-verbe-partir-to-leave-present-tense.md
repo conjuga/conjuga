@@ -6,9 +6,14 @@ image: assets/images/verbs/2024/09/10/verbe_partir_present_indicatif.png
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Partir (to leave) in Present Tense
-
 The verb **partir** is an essential verb in French for talking about leaving or departing. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **Je pars** (I leave)
 - **Tu pars** (You leave)

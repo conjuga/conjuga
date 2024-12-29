@@ -6,9 +6,14 @@ image: assets/images/verbs/a/verbe_faire_present_indicatif.png
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Faire (to do/make) in Present Tense
-
 The verb **faire** is very versatile in French. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **Je fais** (I do/make)
 - **Tu fais** (You do/make)

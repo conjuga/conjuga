@@ -6,9 +6,14 @@ image: assets/images/verbs/2024/09/16/verbe_choisir_present_indicatif.png
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Choisir (to choose) in Present Tense
-
 The verb **choisir** is used to talk about choosing or selecting something. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **Je choisis** (I choose)
 - **Tu choisis** (You choose)

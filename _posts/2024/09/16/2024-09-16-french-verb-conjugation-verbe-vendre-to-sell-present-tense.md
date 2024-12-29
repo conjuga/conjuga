@@ -6,9 +6,14 @@ image: assets/images/verbs/2024/09/16/verbe_vendre_present_indicatif.png
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Vendre (to sell) in Present Tense
-
 The verb **vendre** is crucial for talking about selling something. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **Je vends** (I sell)
 - **Tu vends** (You sell)

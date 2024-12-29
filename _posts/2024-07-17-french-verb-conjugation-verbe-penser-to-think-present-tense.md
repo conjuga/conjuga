@@ -8,6 +8,13 @@ categories: [French Conjugation]
 
 The verb **penser** is a fundamental verb in French, commonly used to express thoughts and opinions. Here are its present tense conjugations:
 
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
+
 - **Je pense** (I think)
 - **Tu penses** (You think)
 - **Il/Elle/On pense** (He/She/One thinks)

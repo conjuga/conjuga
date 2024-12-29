@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Vouloir (to want) in Present Tense"
+title: "Verbe Vouloir (to want) in Present Tense"
 date: 2024-07-14
 image: assets/images/verbs/b/verbe_vouloir_present_indicatif.png
 categories: [French Conjugation]

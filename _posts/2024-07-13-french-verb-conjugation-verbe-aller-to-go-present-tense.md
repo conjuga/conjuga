@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Aller (to go) in Present Tense"
+title: "Verbe Aller (to go) in Present Tense"
 date: 2024-07-13
 image: assets/images/verbs/a/verbe_aller_present_indicatif.png
 video: "https://www.youtube.com/embed/aSBgJqNegvI"
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Aller (to go) in Present Tense
-
 The verb **aller** is widely used in French. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **Je vais** (I go)
 - **Tu vas** (You go)

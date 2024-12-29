@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Dire (to say) in Present Tense"
+title: "Verbe Dire (to say) in Present Tense"
 date: 2024-07-17
 image: assets/images/verbs/b/verbe_dire_present_indicatif.png
 categories: [French Conjugation]

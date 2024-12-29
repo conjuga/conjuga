@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Savoir (to know) in Present Tense"
+title: "Verbe Savoir (to know) in Present Tense"
 date: 2024-07-21
 image: assets/images/verbs/21/verbe_savoir_present_indicatif.png
 categories: [French Conjugation]

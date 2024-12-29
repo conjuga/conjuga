@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Apprendre (to learn) in Present Tense"
+title: "Verbe Apprendre (to learn) in Present Tense"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_apprendre_present_indicatif.png
 categories: [French Conjugation]

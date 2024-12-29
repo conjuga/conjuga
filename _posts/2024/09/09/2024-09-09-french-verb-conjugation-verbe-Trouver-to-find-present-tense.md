@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Trouver (to find) in Present Tense"
+title: "Verbe Trouver (to find) in Present Tense"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_trouver_present_indicatif.png
 categories: [French Conjugation]

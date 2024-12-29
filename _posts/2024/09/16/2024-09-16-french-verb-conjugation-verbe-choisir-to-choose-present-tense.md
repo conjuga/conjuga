@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Choisir (to choose) in Present Tense"
+title: "Verbe Choisir (to choose) in Present Tense"
 date: 2024-09-16
 image: assets/images/verbs/2024/09/16/verbe_choisir_present_indicatif.png
 categories: [French Conjugation]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Répondre (to answer) in Present Tense"
+title: "Verbe Répondre (to answer) in Present Tense"
 date: 2024-09-16
 image: assets/images/verbs/2024/09/16/verbe_repondre_present_indicatif.png
 categories: [French Conjugation]

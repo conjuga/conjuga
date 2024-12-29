@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Penser (to think) in Present Tense"
+title: "Verbe Penser (to think) in Present Tense"
 date: 2024-07-17
 image: assets/images/verbs/b/verbe_penser_present_indicatif.png
 categories: [French Conjugation]

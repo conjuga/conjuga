@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Aimer (to love/to like) in Present Tense"
+title: "Verbe Aimer (to love/to like) in Present Tense"
 date: 2024-07-21
 image: assets/images/verbs/21/verbe_aimer_present_indicatif.png
 video: "https://www.youtube.com/embed/9JjBV0nd-HQ"
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Aimer (to love/to like) in Present Tense
-
 The verb **aimer** is widely used in French. Here are its present tense conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **J'aime** (I love/I like)
 - **Tu aimes** (You love/You like)

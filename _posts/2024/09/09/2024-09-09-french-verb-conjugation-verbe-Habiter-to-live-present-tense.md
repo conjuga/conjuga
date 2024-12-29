@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Habiter (to live) in Present Tense"
+title: "Verbe Habiter (to live) in Present Tense"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_habiter_present_indicatif.png
 categories: [French Conjugation]

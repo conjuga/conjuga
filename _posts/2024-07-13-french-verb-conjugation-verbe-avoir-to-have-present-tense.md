@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Avoir (to have) in Present Tense"
+title: "Verbe Avoir (to have) in Present Tense"
 date: 2024-07-13
 image: assets/images/verbs/a/verbe_avoir_present_indicatif.png
 video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 ---
 
-## French Verb Conjugation: Verbe Avoir (to have) in Present Tense
-
 Conjugating the verb **avoir** in the present tense is crucial for basic French communication. Here are the conjugations:
+
+<!-- Video Embed Section -->
+{% if page.video %}
+<div class="video-embed">
+  <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
 
 - **J'ai** (I have)
 - **Tu as** (You have)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Etre (to be) in Present Tense"
+title: "Verbe Etre (to be) in Present Tense"
 date: 2024-07-13
 image: assets/images/verbs/a/verbe_etre_present_indicatif.png
 categories: [French Conjugation]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Essayer (to try) in Present Tense"
+title: "Verbe Essayer (to try) in Present Tense"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_essayer_present_indicatif.png
 categories: [French Conjugation]

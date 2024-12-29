@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Chercher (to look for) in Present Tense"
+title: "Verbe Chercher (to look for) in Present Tense"
 date: 2024-09-16
 image: assets/images/verbs/2024/09/16/verbe_chercher_present_indicatif.png
 categories: [French Conjugation]

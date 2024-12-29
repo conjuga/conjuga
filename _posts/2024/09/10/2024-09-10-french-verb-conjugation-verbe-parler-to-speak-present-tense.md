@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Parler (to speak) in Present Tense"
+title: "Verbe Parler (to speak) in Present Tense"
 date: 2024-09-10
 image: assets/images/verbs/2024/09/10/verbe_parler_present_indicatif.png
 categories: [French Conjugation]

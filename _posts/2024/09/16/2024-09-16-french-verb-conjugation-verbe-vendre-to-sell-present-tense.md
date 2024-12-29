@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "French Verb Conjugation: Verbe Vendre (to sell) in Present Tense"
+title: "Verbe Vendre (to sell) in Present Tense"
 date: 2024-09-16
 image: assets/images/verbs/2024/09/16/verbe_vendre_present_indicatif.png
 categories: [French Conjugation]

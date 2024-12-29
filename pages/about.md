@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Conjuga: French Conjugation App"
+title: "Conjuga : French Conjugation app"
 permalink: "/app/"
 image: assets/images/conjuga-ios-app.png
 ---
@@ -64,4 +64,4 @@ Stay updated with the latest features, tips, and news from Conjuga. Follow us on
 
 Start your journey to mastering French conjugations with Conjuga today!
 
-[Get Conjuga Now](https://conjuga.app.link/VlkyCxUWOKb)
+[Get the App](https://conjuga.app.link/VlkyCxUWOKb)

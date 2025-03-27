@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Avoir (to have) in Present Tense"
+title: "Verbe Avoir: Present Tense Conjugation Guide for Beginners"
 date: 2024-07-13
 image: assets/images/verbs/a/verbe_avoir_present_indicatif.png
 video: "https://www.youtube.com/embed/19IKRl83c8I"

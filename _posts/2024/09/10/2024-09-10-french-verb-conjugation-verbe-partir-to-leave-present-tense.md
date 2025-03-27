@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Partir (to leave) in Present Tense"
+title: "Verbe Partir: Conjugaison au Présent et Exemples d'Usage"
 date: 2024-09-10
 image: assets/images/verbs/2024/09/10/verbe_partir_present_indicatif.png
 categories: [French Conjugation]

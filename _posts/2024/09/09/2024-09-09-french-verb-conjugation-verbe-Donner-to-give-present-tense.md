@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Donner (to give) in Present Tense"
+title: "Verbe Donner (to give) Conjugation in Present Tense"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_donner_present_indicatif.png
 categories: [French Conjugation]

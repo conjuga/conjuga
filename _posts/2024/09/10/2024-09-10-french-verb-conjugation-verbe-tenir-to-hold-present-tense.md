@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Tenir (to hold) in Present Tense"
+title: "Verbe Tenir en Présent: Conjugaison Française | Conjuga"
 date: 2024-09-10
 image: assets/images/verbs/2024/09/10/verbe_tenir_present_indicatif.png
 categories: [French Conjugation]

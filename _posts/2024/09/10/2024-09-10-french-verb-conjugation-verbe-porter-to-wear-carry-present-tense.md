@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Porter (to wear/carry) in Present Tense"
+title: "Verbe Porter: Present Tense French Verb Conjugation"
 date: 2024-09-10
 image: assets/images/verbs/2024/09/10/verbe_porter_present_indicatif.png
 categories: [French Conjugation]

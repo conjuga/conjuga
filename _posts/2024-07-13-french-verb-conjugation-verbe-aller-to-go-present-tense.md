@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Aller (to go) in Present Tense"
+title: "Verbe Aller en Présent : Conjugaison, Exemples & Usage"
 date: 2024-07-13
 image: assets/images/verbs/a/verbe_aller_present_indicatif.png
 video: "https://www.youtube.com/embed/aSBgJqNegvI"

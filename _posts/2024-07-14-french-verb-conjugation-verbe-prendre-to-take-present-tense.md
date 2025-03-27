@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Prendre (to take) in Present Tense"
+title: "French Verb Conjugation: Verbe Prendre in the Present Tense"
 date: 2024-07-14
 image: assets/images/verbs/b/verbe_prendre_present_indicatif.png
 categories: [French Conjugation]

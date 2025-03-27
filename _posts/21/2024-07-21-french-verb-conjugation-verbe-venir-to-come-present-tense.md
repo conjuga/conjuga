@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Venir (to come) in Present Tense"
+title: "Verbe Venir: Conjugaison au Présent avec Exemples Pratiques"
 date: 2024-07-21
 image: assets/images/verbs/21/verbe_venir_present_indicatif.png
 categories: [French Conjugation]

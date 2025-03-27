@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Jouer (to play) in Present Tense"
+title: "Verbe Jouer: French Present Tense Conjugation Guide"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_jouer_present_indicatif.png
 categories: [French Conjugation]

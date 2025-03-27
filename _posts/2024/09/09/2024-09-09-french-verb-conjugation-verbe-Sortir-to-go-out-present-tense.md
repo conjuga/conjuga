@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Sortir (to go out) in Present Tense"
+title: "Verbe Sortir in Present Tense: French Conjugation Guide"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_sortir_present_indicatif.png
 categories: [French Conjugation]

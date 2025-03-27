@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Voir (to see) in Present Tense"
+title: "Verbe Voir : Conjugaison au Présent avec Des Exemples"
 date: 2024-07-21
 image: assets/images/verbs/21/verbe_voir_present_indicatif.png
 categories: [French Conjugation]

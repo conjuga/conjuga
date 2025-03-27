@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verbe Oublier (to forget) in Present Tense"
+title: "Verbe Oublier: Conjugaison au Présent – Guide Français"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_oublier_present_indicatif.png
 categories: [French Conjugation]

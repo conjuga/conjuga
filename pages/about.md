@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Conjuga : French Conjugation app"
+title: "Learn French Conjugation Effectively with Conjuga App"
 permalink: "/app/"
 image: assets/images/conjuga-ios-app.png
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Mastering sourdre: A Guide to the subjunctive Conjugation"
 date: 2025-03-28
-image: assets/images/verbs/a/Sourdre_subjunctive_past.webp
+image: assets/images/verbs/2025/03/Sourdre_subjunctive_past.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Grammar, Language Learning]
 tags: [French Conjugation, Verbe sourdre, Conditional Present Conjugation, French Verbs, French Language Learning]

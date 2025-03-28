@@ -2,7 +2,7 @@
 layout: post
 title: "Mastering the French Verb 'Imprimer': Imperfect Imperative Conjugation"
 date: 2025-03-28
-image: assets/images/verbs/2025/03/Imprimer_imperfect_imperative.jpg
+image: assets/images/verbs/2025/03/Imprimer_imperfect_imperative.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 ---

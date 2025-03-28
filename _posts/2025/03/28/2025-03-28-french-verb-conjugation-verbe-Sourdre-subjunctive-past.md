@@ -1,4 +1,13 @@
 ---
+layout: post
+title: "Mastering sourdre: A Guide to the subjunctive Conjugation"
+date: 2025-03-28
+image: assets/images/verbs/a/Sourdre_subjunctive_past.webp
+# video: "https://www.youtube.com/embed/19IKRl83c8I"
+categories: [French Grammar, Language Learning]
+tags: [French Conjugation, Verbe sourdre, Conditional Present Conjugation, French Verbs, French Language Learning]
+
+---
 
 The French verb **sourdre** is a rather unique verb, often not encountered in everyday conversation. However, its understanding and usage can enrich your knowledge of the French language. In this post, we will focus on its subjunctive past conjugation. 
 

@@ -2,7 +2,7 @@
 layout: post 
 title: "Conjugaison du verbe 'To Juggle' en Subjonctif Plus-que-parfait pour les Débutants"
 date: 2025-03-29
-image: assets/images/verbs/2025/03/To juggle_subjunctive_pluperfect.webp
+image: assets/images/verbs/en/2025/03/To juggle_subjunctive_pluperfect.webp
 categories: [Conjugaison Anglais]
 lang: en
 ---

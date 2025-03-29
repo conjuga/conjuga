@@ -1,7 +1,8 @@
+---
 layout: post 
 title: "Conjugation of the Verb 'To Understand': A Guide to Subjunctive Pluperfect for Beginners"
 date: 2025-03-29
-image: assets/images/verbs/2025/03/To understand_subjunctive_pluperfect.webp
+image: assets/images/verbs/en/2025/03/To understand_subjunctive_pluperfect.webp
 categories: [English Conjugation]
 lang: en
 ---

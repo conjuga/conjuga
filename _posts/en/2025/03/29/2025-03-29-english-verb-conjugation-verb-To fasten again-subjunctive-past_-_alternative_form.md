@@ -2,7 +2,7 @@
 layout: post 
 title: "Apprendre la Conjugaison du Verbe Anglais 'To Run' Pour les Débutants"
 date: 2025-03-29
-image: assets/images/verbs/2025/03/To_run_conjugation.webp
+image: assets/images/verbs/en/2025/03/To_run_conjugation.webp
 categories: [Conjugaison Anglais]
 lang: en
 ---

@@ -2,7 +2,7 @@
 layout: post 
 title: "Verb To hinder: Subjunctive Past - Alternative Form Conjugation Guide for Beginners"
 date: 2025-03-29
-image: assets/images/verbs/2025/03/To_hinder_subjunctive_past_-_alternative_form.webp
+image: assets/images/verbs/en/2025/03/To hinder_subjunctive_past_-_alternative_form.webp
 categories: [Conjugaison Anglais]
 lang: en
 ---

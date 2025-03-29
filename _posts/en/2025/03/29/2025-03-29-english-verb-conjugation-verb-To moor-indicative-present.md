@@ -2,7 +2,7 @@
 layout: post
 title: "Le verbe 'To moor': Guide de la Conjugaison Indicative Présente pour les Débutants"
 date: 2025-03-29
-image: assets/images/verbs/en/2025/03/To_moor_indicative_present.webp
+image: assets/images/verbs/en/2025/03/To moor_indicative_present.webp
 categories: [Conjugaison Anglais]
 lang: en
 ---

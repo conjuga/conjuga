@@ -2,7 +2,7 @@
 layout: post 
 title: "Verbe 'To Turn': Guide de Conjugaison Futur Conditionnel pour Débutants"
 date: 2025-03-29
-image: assets/images/verbs/2025/03/To_turn_conditional_future.webp
+image: assets/images/verbs/en/2025/03/To_turn_conditional_future.webp
 categories: [Conjugaison Anglais]
 lang: en 
 

@@ -2,13 +2,14 @@
 layout: post 
 title: "Verbe 'To Hurt': Guide de Conjugaison du Futur Conditionnel pour Débutants"
 date: 2025-03-29
-image: assets/images/verbs/2025/03/To_hurt_conditional_future.webp
+image: assets/images/verbs/en/2025/03/To_hurt_conditional_future.webp
 categories: [Conjugaison Anglais]
 lang: en
+---
 
 Le verbe anglais **to hurt** est un verbe irrégulier souvent utilisé dans le langage courant. Dans cet article, nous allons voir comment le conjuguer au futur conditionnel.
 
-![To Hurt Conjugation](/assets/images/verbs/2025/03/To_hurt_conditional_future.webp)
+
 
 - **Futur conditionnel :**  
   - I / You / We / They → **would hurt**  

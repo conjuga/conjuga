@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2025-03-29T17:08:57+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">French Conjugation Mastery: Learn Essential Verbs</title><subtitle>Learn French verb conjugations effortlessly! Daily updates, examples, and an app to improve your skills fast!</subtitle><author><name>Conjuga</name></author><entry><title type="html"></title><link href="http://0.0.0.0:4000/2025/03/29/2025-03-29-french-verb-conjugation-verbe-Galoper-participle-future/" rel="alternate" type="text/html" title="" /><published>2025-03-29T17:08:57+00:00</published><updated>2025-03-29T17:08:57+00:00</updated><id>http://0.0.0.0:4000/2025/03/29/2025-03-29-french-verb-conjugation-verbe-Galoper-participle-future</id><content type="html" xml:base="http://0.0.0.0:4000/2025/03/29/2025-03-29-french-verb-conjugation-verbe-Galoper-participle-future/"><![CDATA[<p>Améliorez votre expérience d’apprentissage du français avec notre <a href="https://conjuga.app.link/VlkyCxUWOKb">Application de Conjugaison Française</a>. Pratiquez davantage de verbes et améliorez vos compétences en déplacement !</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2025-03-29T17:14:40+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">French Conjugation Mastery: Learn Essential Verbs</title><subtitle>Learn French verb conjugations effortlessly! Daily updates, examples, and an app to improve your skills fast!</subtitle><author><name>Conjuga</name></author><entry><title type="html"></title><link href="http://0.0.0.0:4000/2025/03/29/2025-03-29-french-verb-conjugation-verbe-Galoper-participle-future/" rel="alternate" type="text/html" title="" /><published>2025-03-29T17:14:40+00:00</published><updated>2025-03-29T17:14:40+00:00</updated><id>http://0.0.0.0:4000/2025/03/29/2025-03-29-french-verb-conjugation-verbe-Galoper-participle-future</id><content type="html" xml:base="http://0.0.0.0:4000/2025/03/29/2025-03-29-french-verb-conjugation-verbe-Galoper-participle-future/"><![CDATA[<p>Améliorez votre expérience d’apprentissage du français avec notre <a href="https://conjuga.app.link/VlkyCxUWOKb">Application de Conjugaison Française</a>. Pratiquez davantage de verbes et améliorez vos compétences en déplacement !</p>
 
 <p>Restez à l’écoute pour plus de conjugaisons de verbes français pour enrichir votre apprentissage des langues !</p>
 
@@ -32,37 +32,7 @@
 
 <p>Restez à l’écoute pour plus de conjugaisons de verbes français pour améliorer votre apprentissage des langues !</p>
 
-<p>Remarque : Assurez-vous que ce post est optimisé pour le SEO et est enrichi pour le contenu de conjugaison française et l’apprentissage des langues.</p>]]></content><author><name>Conjuga</name></author><category term="French Conjugation" /><summary type="html"><![CDATA[La conjugaison du verbe endormir au futur participe est essentielle pour la communication en français. Voici les conjugaisons correctes :]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Endormir_participle_future.webp" /><media:content medium="image" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Endormir_participle_future.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">English Verb Conjugation Verb To comfort Conditional Near_future</title><link href="http://0.0.0.0:4000/2025/03/29/english-verb-conjugation-verb-To-comfort-conditional-near_future/" rel="alternate" type="text/html" title="English Verb Conjugation Verb To comfort Conditional Near_future" /><published>2025-03-29T00:00:00+00:00</published><updated>2025-03-29T00:00:00+00:00</updated><id>http://0.0.0.0:4000/2025/03/29/english-verb-conjugation-verb-To%20comfort-conditional-near_future</id><content type="html" xml:base="http://0.0.0.0:4000/2025/03/29/english-verb-conjugation-verb-To-comfort-conditional-near_future/"><![CDATA[<p>The code is a Python script that automates the process of generating English verb conjugation content for a language learning blog. The content is generated using OpenAI’s GPT-4 model and the images accompanying the content are created using OpenAI’s image generation API. The script also incorporates SEO optimization for the generated content.</p>
-
-<p>Let’s breakdown the program:</p>
-
-<ol>
-  <li>
-    <p><strong>Importing Modules</strong>: The script begins by importing necessary modules like <code>os</code>, <code>json</code>, <code>datetime</code>, <code>subprocess</code>, <code>openai</code>, <code>requests</code>, <code>random</code> and <code>PIL</code>.</p>
-  </li>
-  <li>
-    <p><strong>Set OpenAI API key</strong>: The OpenAI API key is read from an environment variable.</p>
-  </li>
-  <li>
-    <p><strong>Function Definitions</strong>: The script then defines several functions:</p>
-
-    <ul>
-      <li><code>is_verb_used</code>: Checks if a verb in a specific mode and tense has already been used in a post.</li>
-      <li><code>generate_content_with_openai</code>: Generates the content of the post using OpenAI’s GPT-4 model. It reads a template file, modifies it, and sends it to the GPT-4 model to generate the post content.</li>
-      <li><code>generate_image_with_openai</code>: Generates an image to accompany the post using OpenAI’s image generation API.</li>
-      <li><code>create_output_directories</code>: Creates directories to store the generated posts and images.</li>
-      <li><code>git_commit_push</code>: Commits and pushes the generated content to a Git repository.</li>
-    </ul>
-  </li>
-  <li>
-    <p><strong>Main Function</strong>: The <code>main</code> function orchestrates the overall process. It loads the verbs from a JSON file, randomly chooses a mode and tense, filters the verbs that haven’t been used in the chosen mode and tense, and randomly selects two verbs. For each selected verb, it generates content and an image, creates output directories, and saves the markdown file and image. Finally, it commits and pushes the changes to a Git repository.</p>
-  </li>
-  <li>
-    <p><strong>Running the Main Function</strong>: The script ends by running the <code>main</code> function if the script is run as a standalone program.</p>
-  </li>
-</ol>
-
-<p>The <code>Note: Ensure that this post is SEO friendly and enhanced for English verb conjugation content and language learning.</code> at the end of your code seems to be misplaced. It should be placed inside the <code>generate_content_with_openai</code> function, right before the SEO-friendly note is appended to the <code>modified_template</code>.</p>]]></content><author><name>Conjuga</name></author><summary type="html"><![CDATA[The code is a Python script that automates the process of generating English verb conjugation content for a language learning blog. The content is generated using OpenAI’s GPT-4 model and the images accompanying the content are created using OpenAI’s image generation API. The script also incorporates SEO optimization for the generated content.]]></summary></entry><entry xml:lang="fr"><title type="html">Verbe Fixer: Conjugaison du Passé Antérieur pour les Débutants</title><link href="http://0.0.0.0:4000/french%20conjugation/2025/03/29/french-verb-conjugation-verbe-Fixer-participle-past_anterior/" rel="alternate" type="text/html" title="Verbe Fixer: Conjugaison du Passé Antérieur pour les Débutants" /><published>2025-03-29T00:00:00+00:00</published><updated>2025-03-29T00:00:00+00:00</updated><id>http://0.0.0.0:4000/french%20conjugation/2025/03/29/french-verb-conjugation-verbe-Fixer-participle-past_anterior</id><content type="html" xml:base="http://0.0.0.0:4000/french%20conjugation/2025/03/29/french-verb-conjugation-verbe-Fixer-participle-past_anterior/"><![CDATA[<p>La conjugaison du verbe <strong>fixer</strong> au passé antérieur est une compétence essentielle pour ceux qui apprennent le français. Voici comment on le conjugue:</p>
+<p>Remarque : Assurez-vous que ce post est optimisé pour le SEO et est enrichi pour le contenu de conjugaison française et l’apprentissage des langues.</p>]]></content><author><name>Conjuga</name></author><category term="French Conjugation" /><summary type="html"><![CDATA[La conjugaison du verbe endormir au futur participe est essentielle pour la communication en français. Voici les conjugaisons correctes :]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Endormir_participle_future.webp" /><media:content medium="image" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Endormir_participle_future.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="fr"><title type="html">Verbe Fixer: Conjugaison du Passé Antérieur pour les Débutants</title><link href="http://0.0.0.0:4000/french%20conjugation/2025/03/29/french-verb-conjugation-verbe-Fixer-participle-past_anterior/" rel="alternate" type="text/html" title="Verbe Fixer: Conjugaison du Passé Antérieur pour les Débutants" /><published>2025-03-29T00:00:00+00:00</published><updated>2025-03-29T00:00:00+00:00</updated><id>http://0.0.0.0:4000/french%20conjugation/2025/03/29/french-verb-conjugation-verbe-Fixer-participle-past_anterior</id><content type="html" xml:base="http://0.0.0.0:4000/french%20conjugation/2025/03/29/french-verb-conjugation-verbe-Fixer-participle-past_anterior/"><![CDATA[<p>La conjugaison du verbe <strong>fixer</strong> au passé antérieur est une compétence essentielle pour ceux qui apprennent le français. Voici comment on le conjugue:</p>
 
 <ul>
   <li><strong>J’ai fixé</strong> (I fixed)</li>
@@ -124,7 +94,66 @@
 
 <p>Restez à l’écoute pour plus de conjugaisons de verbes français pour améliorer votre apprentissage des langues !</p>
 
-<p>Note : Assurez-vous que ce post est optimisé pour le SEO et amélioré pour le contenu de la conjugaison française et l’apprentissage des langues.</p>]]></content><author><name>Conjuga</name></author><category term="Conjugaison Française" /><summary type="html"><![CDATA[La conjugaison du verbe avoir au présent est cruciale pour une communication de base en français. Voici les conjugaisons :]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Identifier_participle_past_anterior.webp" /><media:content medium="image" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Identifier_participle_past_anterior.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="fr"><title type="html">Mastering Avoir: A Guide to the Conditional Present Conjugation</title><link href="http://0.0.0.0:4000/french%20grammar/language%20learning/2025/03/28/avoir_conditional_present/" rel="alternate" type="text/html" title="Mastering Avoir: A Guide to the Conditional Present Conjugation" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T00:00:00+00:00</updated><id>http://0.0.0.0:4000/french%20grammar/language%20learning/2025/03/28/avoir_conditional_present</id><content type="html" xml:base="http://0.0.0.0:4000/french%20grammar/language%20learning/2025/03/28/avoir_conditional_present/"><![CDATA[<p>The verb <strong>avoir</strong> is one of the most frequently used verbs in the French language. Mastering its conjugation in the present conditional tense is an essential step towards fluent French communication. Here are the conjugations you need to know:</p>
+<p>Note : Assurez-vous que ce post est optimisé pour le SEO et amélioré pour le contenu de la conjugaison française et l’apprentissage des langues.</p>]]></content><author><name>Conjuga</name></author><category term="Conjugaison Française" /><summary type="html"><![CDATA[La conjugaison du verbe avoir au présent est cruciale pour une communication de base en français. Voici les conjugaisons :]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Identifier_participle_past_anterior.webp" /><media:content medium="image" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Identifier_participle_past_anterior.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">English Verb Conjugation Verb To comfort Conditional Near_future</title><link href="http://0.0.0.0:4000/2025/03/29/english-verb-conjugation-verb-To-comfort-conditional-near_future/" rel="alternate" type="text/html" title="English Verb Conjugation Verb To comfort Conditional Near_future" /><published>2025-03-29T00:00:00+00:00</published><updated>2025-03-29T00:00:00+00:00</updated><id>http://0.0.0.0:4000/2025/03/29/english-verb-conjugation-verb-To%20comfort-conditional-near_future</id><content type="html" xml:base="http://0.0.0.0:4000/2025/03/29/english-verb-conjugation-verb-To-comfort-conditional-near_future/"><![CDATA[<p>The code is a Python script that automates the process of generating English verb conjugation content for a language learning blog. The content is generated using OpenAI’s GPT-4 model and the images accompanying the content are created using OpenAI’s image generation API. The script also incorporates SEO optimization for the generated content.</p>
+
+<p>Let’s breakdown the program:</p>
+
+<ol>
+  <li>
+    <p><strong>Importing Modules</strong>: The script begins by importing necessary modules like <code>os</code>, <code>json</code>, <code>datetime</code>, <code>subprocess</code>, <code>openai</code>, <code>requests</code>, <code>random</code> and <code>PIL</code>.</p>
+  </li>
+  <li>
+    <p><strong>Set OpenAI API key</strong>: The OpenAI API key is read from an environment variable.</p>
+  </li>
+  <li>
+    <p><strong>Function Definitions</strong>: The script then defines several functions:</p>
+
+    <ul>
+      <li><code>is_verb_used</code>: Checks if a verb in a specific mode and tense has already been used in a post.</li>
+      <li><code>generate_content_with_openai</code>: Generates the content of the post using OpenAI’s GPT-4 model. It reads a template file, modifies it, and sends it to the GPT-4 model to generate the post content.</li>
+      <li><code>generate_image_with_openai</code>: Generates an image to accompany the post using OpenAI’s image generation API.</li>
+      <li><code>create_output_directories</code>: Creates directories to store the generated posts and images.</li>
+      <li><code>git_commit_push</code>: Commits and pushes the generated content to a Git repository.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Main Function</strong>: The <code>main</code> function orchestrates the overall process. It loads the verbs from a JSON file, randomly chooses a mode and tense, filters the verbs that haven’t been used in the chosen mode and tense, and randomly selects two verbs. For each selected verb, it generates content and an image, creates output directories, and saves the markdown file and image. Finally, it commits and pushes the changes to a Git repository.</p>
+  </li>
+  <li>
+    <p><strong>Running the Main Function</strong>: The script ends by running the <code>main</code> function if the script is run as a standalone program.</p>
+  </li>
+</ol>
+
+<p>The <code>Note: Ensure that this post is SEO friendly and enhanced for English verb conjugation content and language learning.</code> at the end of your code seems to be misplaced. It should be placed inside the <code>generate_content_with_openai</code> function, right before the SEO-friendly note is appended to the <code>modified_template</code>.</p>]]></content><author><name>Conjuga</name></author><summary type="html"><![CDATA[The code is a Python script that automates the process of generating English verb conjugation content for a language learning blog. The content is generated using OpenAI’s GPT-4 model and the images accompanying the content are created using OpenAI’s image generation API. The script also incorporates SEO optimization for the generated content.]]></summary></entry><entry><title type="html">English Verb Conjugation Verb To dedicate Conditional Near_future</title><link href="http://0.0.0.0:4000/2025/03/29/english-verb-conjugation-verb-To-dedicate-conditional-near_future/" rel="alternate" type="text/html" title="English Verb Conjugation Verb To dedicate Conditional Near_future" /><published>2025-03-29T00:00:00+00:00</published><updated>2025-03-29T00:00:00+00:00</updated><id>http://0.0.0.0:4000/2025/03/29/english-verb-conjugation-verb-To%20dedicate-conditional-near_future</id><content type="html" xml:base="http://0.0.0.0:4000/2025/03/29/english-verb-conjugation-verb-To-dedicate-conditional-near_future/"><![CDATA[<p>The Python script you’ve provided appears to be a complete program for generating English language learning content. The program uses OpenAI’s GPT-4 to generate a blog post on verb conjugations and an accompanying image. It then commits and pushes the generated content to a Git repository.</p>
+
+<p>I see that you’ve added a comment at the end which says, “Note: Ensure that this post is SEO friendly and enhanced for English verb conjugation content and language learning.”</p>
+
+<p>If you want the content to be SEO friendly, you should consider the following points:</p>
+
+<ol>
+  <li>
+    <p><strong>Keywords</strong>: Make sure to include relevant keywords in your content. For this script, keywords might include the verb, the mode and the tense. It’s also important to use synonyms and related terms.</p>
+  </li>
+  <li>
+    <p><strong>Readability</strong>: Make sure your content is easy to read. Break up text into short paragraphs, use subheadings, and include bullet points or numbered lists where appropriate. This is handled by GPT-4 in your script.</p>
+  </li>
+  <li>
+    <p><strong>Meta Tags</strong>: Include meta tags in your HTML. These should include a title tag (which is already handled in your script) and a meta description. The meta description should be a brief summary of the page’s content and should include your keywords.</p>
+  </li>
+  <li>
+    <p><strong>Alt Text for Images</strong>: Make sure all images include alt text. This is a description of the image which helps search engines understand what the image is showing. It’s also useful for visually impaired users.</p>
+  </li>
+  <li>
+    <p><strong>Internal and External Links</strong>: Include links to other relevant pages on your website (internal links) and to other authoritative websites (external links).</p>
+  </li>
+  <li>
+    <p><strong>Unique Content</strong>: Search engines prefer unique content, so try to make your content as unique as possible. This is handled in your script by generating unique content for each verb, mode, and tense combination.</p>
+  </li>
+</ol>
+
+<p>In terms of the English grammar and language learning aspects, the script seems to be on the right track as it generates content focusing on verb conjugations, a crucial part of English grammar.</p>
+
+<p>However, to further improve the language learning aspect, you might include some example sentences using the verb in the selected mode and tense, or perhaps a brief explanation of when that tense is typically used. This could potentially be incorporated into the ‘generate_content_with_openai’ function.</p>]]></content><author><name>Conjuga</name></author><summary type="html"><![CDATA[The Python script you’ve provided appears to be a complete program for generating English language learning content. The program uses OpenAI’s GPT-4 to generate a blog post on verb conjugations and an accompanying image. It then commits and pushes the generated content to a Git repository.]]></summary></entry><entry xml:lang="fr"><title type="html">Mastering Avoir: A Guide to the Conditional Present Conjugation</title><link href="http://0.0.0.0:4000/french%20grammar/language%20learning/2025/03/28/avoir_conditional_present/" rel="alternate" type="text/html" title="Mastering Avoir: A Guide to the Conditional Present Conjugation" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T00:00:00+00:00</updated><id>http://0.0.0.0:4000/french%20grammar/language%20learning/2025/03/28/avoir_conditional_present</id><content type="html" xml:base="http://0.0.0.0:4000/french%20grammar/language%20learning/2025/03/28/avoir_conditional_present/"><![CDATA[<p>The verb <strong>avoir</strong> is one of the most frequently used verbs in the French language. Mastering its conjugation in the present conditional tense is an essential step towards fluent French communication. Here are the conjugations you need to know:</p>
 
 <!-- Video Embed Section -->
 
@@ -255,34 +284,4 @@
 
 <p>Want to learn more? Enhance your French language journey with our <a href="https://conjuga.app.link/VlkyCxUWOKb">French Conjugation App</a>. Practice conjugating more verbs and improve your skills on the go!</p>
 
-<p>Stay tuned for more French verb conjugation guides!</p>]]></content><author><name>Conjuga</name></author><category term="French Conjugation" /><summary type="html"><![CDATA[Mastering the conjugation of French verbs can seem like a daunting task, but it’s key to fluent communication in the language. Today, we will focus on the verb ‘Attenter’ in the Subjunctive Past Alternative form.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Attenter_subjunctive_past_-_alternative_form.webp" /><media:content medium="image" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Attenter_subjunctive_past_-_alternative_form.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="fr"><title type="html">Mastering the Subjunctive Pluperfect Conjugation of the Verb ‘Avoir’</title><link href="http://0.0.0.0:4000/french%20conjugation/2025/03/28/french-verb-conjugation-verbe-Avoir-subjunctive-pluperfect/" rel="alternate" type="text/html" title="Mastering the Subjunctive Pluperfect Conjugation of the Verb ‘Avoir’" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T00:00:00+00:00</updated><id>http://0.0.0.0:4000/french%20conjugation/2025/03/28/french-verb-conjugation-verbe-Avoir-subjunctive-pluperfect</id><content type="html" xml:base="http://0.0.0.0:4000/french%20conjugation/2025/03/28/french-verb-conjugation-verbe-Avoir-subjunctive-pluperfect/"><![CDATA[<p>Mastering the French verb <strong>avoir</strong> (to have) is a cornerstone of French language learning. In the present tense, its conjugations are as follows:</p>
-
-<ul>
-  <li><strong>J’ai</strong> (I have)</li>
-  <li><strong>Tu as</strong> (You have)</li>
-  <li><strong>Il/Elle/On a</strong> (He/She/It has)</li>
-  <li><strong>Nous avons</strong> (We have)</li>
-  <li><strong>Vous avez</strong> (You have)</li>
-  <li><strong>Ils/Elles ont</strong> (They have)</li>
-</ul>
-
-<p>These conjugations are fundamental for basic communication in French. To illustrate, consider the following examples:</p>
-
-<ol>
-  <li><strong>J’ai un livre.</strong> (I have a book.)</li>
-  <li><strong>Tu as une voiture.</strong> (You have a car.)</li>
-  <li><strong>Il a une idée.</strong> (He has an idea.)</li>
-  <li><strong>Nous avons des amis.</strong> (We have friends.)</li>
-  <li><strong>Vous avez du temps.</strong> (You have time.)</li>
-  <li><strong>Elles ont une maison.</strong> (They have a house.)</li>
-</ol>
-
-<p>The verb <strong>avoir</strong> is critical for the formation of many common French expressions and tenses, including the subjunctive pluperfect—a less common tense that nonetheless can greatly enhance your understanding of French.</p>
-
-<hr />
-
-<p>To continue refining your French language skills, try our <a href="https://conjuga.app.link/VlkyCxUWOKb">French Conjugation App</a>. With it, you can practice conjugating a plethora of verbs anytime, anywhere.</p>
-
-<p>Stay tuned for further posts on French verb conjugations to support your language learning journey!</p>
-
-<p>SEO Keywords: French verb conjugation, French language learning, verb avoir, French subjunctive pluperfect, avoir conjugation, learn French</p>]]></content><author><name>Conjuga</name></author><category term="French Conjugation" /><summary type="html"><![CDATA[Mastering the French verb avoir (to have) is a cornerstone of French language learning. In the present tense, its conjugations are as follows:]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/avoir_subjunctive_pluperfect.webp" /><media:content medium="image" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/avoir_subjunctive_pluperfect.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Stay tuned for more French verb conjugation guides!</p>]]></content><author><name>Conjuga</name></author><category term="French Conjugation" /><summary type="html"><![CDATA[Mastering the conjugation of French verbs can seem like a daunting task, but it’s key to fluent communication in the language. Today, we will focus on the verb ‘Attenter’ in the Subjunctive Past Alternative form.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Attenter_subjunctive_past_-_alternative_form.webp" /><media:content medium="image" url="http://0.0.0.0:4000/assets/images/verbs/2025/03/Attenter_subjunctive_past_-_alternative_form.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

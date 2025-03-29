@@ -8,7 +8,6 @@ permalink: "/:categories/:year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Conjuga
-paginate: 30
 disqus: 'conjuga'
 locale: en_us
 lang: en_us
@@ -22,7 +21,6 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-
 
 # Ensure this line is present:
 url: "https://www.conjuga.app"
@@ -39,7 +37,6 @@ authors:
     twitter: https://twitter.com/conjapp
     description: "Learn French verb conjugations effortlessly! Daily updates, examples, and an app to improve your skills fast!"
 
-
 # Social
 social:
   instagram: "https://www.instagram.com/conjuga.app/"
@@ -52,9 +49,21 @@ social:
 appStore:
   url: "https://conjuga.app.link/VlkyCxUWOKb"
 
+# Pagination for jekyll-paginate-v2
+pagination:
+  enabled: true
+  per_page: 30
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+
 # Plugins
 plugins: 
-- jekyll-paginate
+- jekyll-paginate-v2
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-seo-tag

@@ -5,6 +5,7 @@ date: 2025-03-28
 image: assets/images/verbs/2025/03/Aboyer_subjunctive_past.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
+# featured: true
 tags: [French language, grammar, conjugation, aboyer, subjunctive past]
 ---
 

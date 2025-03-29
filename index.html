@@ -2,11 +2,13 @@
 title: Conjuga
 layout: default
 background: '{{site.baseurl}}/assets/images/bg-index.jpg'
+pagination:
+  enabled: true
 ---
 
 <!-- Home Intro
 ================================================== -->
-{% if page.url == "/" %} 
+{% if paginator.page != 0 %}
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">

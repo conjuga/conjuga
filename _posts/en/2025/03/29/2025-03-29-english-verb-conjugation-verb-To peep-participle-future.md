@@ -2,7 +2,7 @@
 layout: post 
 title: "Verb To peep: Participle Future Conjugation Guide for Beginners"
 date: 2025-03-29
-image: assets/images/verbs/en/2025/03/To_peep_participle_future.webp
+image: assets/images/verbs/en/2025/03/To peep_participle_future.webp
 categories: [Conjugaison Anglais]
 lang: en
 ---

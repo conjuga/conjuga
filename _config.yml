@@ -48,6 +48,8 @@ social:
 # App Store Url
 appStore:
   url: "https://conjuga.app.link/VlkyCxUWOKb"
+  en: "https://conjuga.app.link/English"
+  es: "https://conjuga.app.link/Spanish"
 
 # Pagination for jekyll-paginate-v2
 pagination:

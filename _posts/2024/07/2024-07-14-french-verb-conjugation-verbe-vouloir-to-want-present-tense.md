@@ -4,6 +4,7 @@ title: "Verbe Vouloir : Guide Complet de Conjugaison au Présent"
 date: 2024-07-14
 image: assets/images/verbs/b/verbe_vouloir_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **vouloir** is a very common and essential verb in French. Here are its present tense conjugations:

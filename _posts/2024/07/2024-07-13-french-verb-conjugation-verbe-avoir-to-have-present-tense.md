@@ -5,6 +5,7 @@ date: 2024-07-13
 image: assets/images/verbs/a/verbe_avoir_present_indicatif.png
 video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
+lang: fr
 ---
 
 Conjugating the verb **avoir** in the present tense is crucial for basic French communication. Here are the conjugations:

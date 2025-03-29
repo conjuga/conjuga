@@ -4,6 +4,7 @@ title: "Verbe Venir: Conjugaison au Présent avec Exemples Pratiques"
 date: 2024-07-21
 image: assets/images/verbs/21/verbe_venir_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **venir** is widely used in French. Here are its present tense conjugations:

@@ -5,6 +5,7 @@ date: 2025-03-28
 image: assets/images/verbs/2025/03/Aller_imperative_imperfect.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
+lang: fr
 ---
 
 Understanding the conjugation of the French verb **aller** in the imperative and imperfect tenses is fundamental for effective communication in French. Here, we provide an easy-to-follow guide:

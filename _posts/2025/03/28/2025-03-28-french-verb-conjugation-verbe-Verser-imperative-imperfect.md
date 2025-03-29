@@ -5,6 +5,7 @@ date: 2025-03-28
 image: assets/images/verbs/2025/03/Verser_imperative_imperfect.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [Conjugaison Française]
+lang: fr
 ---
 
 La conjugaison du verbe **verser** à l'impératif imparfait est cruciale pour la communication basique en français. Voici les conjugaisons :

@@ -4,6 +4,7 @@ title: "Mastering the Past Participle of French Verb 'Diffuser'"
 date: 2025-03-28
 image: assets/images/verbs/2025/03/Diffuser_participle_past.webp
 categories: [French Conjugation]
+lang: fr
 ---
 
 In French language learning, mastering the conjugation of verbs is an essential step. One such verb is ‘Diffuser,’ which means 'to broadcast' or 'to spread.' Today, we will focus on the past participle form of this verb, which is 'diffusé.'

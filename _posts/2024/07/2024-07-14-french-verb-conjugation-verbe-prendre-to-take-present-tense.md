@@ -4,6 +4,7 @@ title: "French Verb Conjugation: Verbe Prendre in the Present Tense"
 date: 2024-07-14
 image: assets/images/verbs/b/verbe_prendre_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **prendre** is frequently used in French. Here are its present tense conjugations:

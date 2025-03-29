@@ -4,6 +4,7 @@ title: "Verbe Partir: Conjugaison au Présent et Exemples d'Usage"
 date: 2024-09-10
 image: assets/images/verbs/2024/09/10/verbe_partir_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **partir** is an essential verb in French for talking about leaving or departing. Here are its present tense conjugations:

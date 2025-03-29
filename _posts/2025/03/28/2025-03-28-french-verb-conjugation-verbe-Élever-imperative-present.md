@@ -5,6 +5,7 @@ date: 2025-03-28
 image: assets/images/verbs/2025/03/Elever_imperative_present.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
+lang: fr
 ---
 
 Learning how to conjugate the verb **élever** in the imperative mood is an important step for effective communication in French. Here are the conjugations:

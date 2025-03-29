@@ -6,6 +6,7 @@ image: assets/images/verbs/21/verbe_aimer_present_indicatif.png
 video_embed: "https://www.youtube.com/embed/9JjBV0nd-HQ"
 video_watch: "https://www.youtube.com/watch?v=9JjBV0nd-HQ"
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **aimer** is widely used in French. Here are its present tense conjugations:

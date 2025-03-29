@@ -7,6 +7,7 @@ image: assets/images/verbs/2025/03/Aboyer_subjunctive_past.webp
 categories: [French Conjugation]
 # featured: true
 tags: [French language, grammar, conjugation, aboyer, subjunctive past]
+lang: fr
 ---
 
 The French verb **aboyer** means 'to bark'. Its conjugation in the past subjunctive tense can be tricky for beginners. This post will guide you through it.

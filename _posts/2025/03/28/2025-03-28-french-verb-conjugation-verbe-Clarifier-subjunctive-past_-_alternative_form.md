@@ -5,6 +5,7 @@ date: 2025-03-28
 image: assets/images/verbs/2025/03/Clarifier_subjunctive_past_-_alternative_form.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
+lang: fr
 ---
 
 In French, the verb **clarifier** means 'to clarify'. Learning to conjugate it in the subjunctive past - alternative form is a step further in mastering French communication. 

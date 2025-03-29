@@ -5,6 +5,7 @@ date: 2025-03-28
 image: assets/images/verbs/a/parler_conditional_present.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
+lang: fr
 ---
 
 Mastering the conjugation of the French verb **parler** in the conditional present tense is an important step in becoming proficient in the French language. Let's dive in:

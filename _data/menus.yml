@@ -1,14 +1,20 @@
 # Top Menu
 topmenu:
 
-- title: Conjugation
+- title: French Verbs
   url: ""
 
-- title: App
+- title: English Verbs
+  url: "en/"
+
+- title: Spanish Verbs
+  url: "es/"
+
+- title: Apps
   url: "app/"
 
-- title: Contact
-  url: "contact/"
+# - title: Contact
+#   url: "contact/"
 
 # Footer Menu
 footermenu:

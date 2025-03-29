@@ -4,6 +4,7 @@ title: "Conjugaison du verbe Apprendre au présent | Conjuga"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_apprendre_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **apprendre** is widely used in French. Here are its present tense conjugations:

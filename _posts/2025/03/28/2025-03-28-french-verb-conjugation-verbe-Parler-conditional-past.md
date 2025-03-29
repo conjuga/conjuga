@@ -4,6 +4,7 @@ title: "Mastering the Past Conditional of the Verb 'Parler' in French: A Beginne
 date: 2025-03-28
 image: assets/images/verbs/2025/03/parler_conditional_past.webp
 categories: [French Conjugation]
+lang: fr
 ---
 
 Descending from Latin, French is a Romance language that is both beautiful and complex. Today, we'll focus on the past conditional of the verb 'parler' (to speak). Understanding this tense is crucial for expressing what would have happened under different circumstances.

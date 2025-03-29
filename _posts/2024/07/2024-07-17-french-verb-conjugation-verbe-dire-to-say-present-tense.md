@@ -4,6 +4,7 @@ title: "Verbe Dire in Present Tense: Full French Conjugation Guide"
 date: 2024-07-17
 image: assets/images/verbs/b/verbe_dire_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **dire** is an essential and frequently used verb in French. Here are its present tense conjugations:

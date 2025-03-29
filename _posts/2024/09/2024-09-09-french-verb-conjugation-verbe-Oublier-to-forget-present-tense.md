@@ -4,6 +4,7 @@ title: "Verbe Oublier: Conjugaison au Présent – Guide Français"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_oublier_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **oublier** is commonly used in French. Here are its present tense conjugations:

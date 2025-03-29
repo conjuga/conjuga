@@ -4,6 +4,7 @@ title: "Verbe Mettre: Present Tense French Conjugation | Conjuga"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_mettre_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **mettre** is widely used in French. Here are its present tense conjugations:

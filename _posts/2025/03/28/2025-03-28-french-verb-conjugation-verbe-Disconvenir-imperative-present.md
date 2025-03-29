@@ -4,6 +4,7 @@ title: "Mastering the Conjugation of the French Verb 'Disconvenir' in the Impera
 date: 2025-03-28
 image: assets/images/verbs/2025/03/Disconvenir_imperative_present.webp
 categories: [French Conjugation]
+lang: fr
 ---
 
 The French verb **disconvenir** can be a bit tricky for beginners to conjugate. It means 'to disagree' or 'to be unsuitable'. In this guide, we will focus on its conjugation in the imperative present tense. 

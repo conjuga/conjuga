@@ -6,6 +6,7 @@ image: assets/images/verbs/a/avoir_conditional_present.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Grammar, Language Learning]
 tags: [French Conjugation, Verbe Avoir, Conditional Present Conjugation, French Verbs, French Language Learning]
+lang: fr
 
 ---
 

@@ -4,6 +4,7 @@ title: "Verbe Tenir en Présent: Conjugaison Française | Conjuga"
 date: 2024-09-10
 image: assets/images/verbs/2024/09/10/verbe_tenir_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **tenir** is essential for describing the action of holding something. Here are its present tense conjugations:

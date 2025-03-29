@@ -4,6 +4,7 @@ title: "Verbe Créer en Présent: Conjugaison Française | Conjuga App"
 date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_creer_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **créer** is widely used in French. Here are its present tense conjugations:

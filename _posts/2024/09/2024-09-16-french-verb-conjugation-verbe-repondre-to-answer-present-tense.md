@@ -4,6 +4,7 @@ title: "Conjugaison du verbe Répondre au Présent | Conjuga App"
 date: 2024-09-16
 image: assets/images/verbs/2024/09/16/verbe_repondre_present_indicatif.png
 categories: [French Conjugation]
+lang: fr
 ---
 
 The verb **répondre** is used to talk about answering questions or responding. Here are its present tense conjugations:

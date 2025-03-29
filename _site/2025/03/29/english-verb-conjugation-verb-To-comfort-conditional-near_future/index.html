@@ -1,0 +1,31 @@
+<p>The code is a Python script that automates the process of generating English verb conjugation content for a language learning blog. The content is generated using OpenAI’s GPT-4 model and the images accompanying the content are created using OpenAI’s image generation API. The script also incorporates SEO optimization for the generated content.</p>
+
+<p>Let’s breakdown the program:</p>
+
+<ol>
+  <li>
+    <p><strong>Importing Modules</strong>: The script begins by importing necessary modules like <code>os</code>, <code>json</code>, <code>datetime</code>, <code>subprocess</code>, <code>openai</code>, <code>requests</code>, <code>random</code> and <code>PIL</code>.</p>
+  </li>
+  <li>
+    <p><strong>Set OpenAI API key</strong>: The OpenAI API key is read from an environment variable.</p>
+  </li>
+  <li>
+    <p><strong>Function Definitions</strong>: The script then defines several functions:</p>
+
+    <ul>
+      <li><code>is_verb_used</code>: Checks if a verb in a specific mode and tense has already been used in a post.</li>
+      <li><code>generate_content_with_openai</code>: Generates the content of the post using OpenAI’s GPT-4 model. It reads a template file, modifies it, and sends it to the GPT-4 model to generate the post content.</li>
+      <li><code>generate_image_with_openai</code>: Generates an image to accompany the post using OpenAI’s image generation API.</li>
+      <li><code>create_output_directories</code>: Creates directories to store the generated posts and images.</li>
+      <li><code>git_commit_push</code>: Commits and pushes the generated content to a Git repository.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Main Function</strong>: The <code>main</code> function orchestrates the overall process. It loads the verbs from a JSON file, randomly chooses a mode and tense, filters the verbs that haven’t been used in the chosen mode and tense, and randomly selects two verbs. For each selected verb, it generates content and an image, creates output directories, and saves the markdown file and image. Finally, it commits and pushes the changes to a Git repository.</p>
+  </li>
+  <li>
+    <p><strong>Running the Main Function</strong>: The script ends by running the <code>main</code> function if the script is run as a standalone program.</p>
+  </li>
+</ol>
+
+<p>The <code>Note: Ensure that this post is SEO friendly and enhanced for English verb conjugation content and language learning.</code> at the end of your code seems to be misplaced. It should be placed inside the <code>generate_content_with_openai</code> function, right before the SEO-friendly note is appended to the <code>modified_template</code>.</p>

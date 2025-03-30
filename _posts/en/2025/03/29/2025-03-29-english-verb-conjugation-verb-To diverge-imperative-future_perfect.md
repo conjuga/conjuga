@@ -5,6 +5,7 @@ date: 2025-03-29
 image: assets/images/verbs/en/2025/03/To diverge_imperative_future_perfect.webp
 categories: [Conjugaison Anglais]
 lang: en
+description: "Apprenez à conjuguer le verbe anglais 'to diverge' à l'impératif futur parfait. Progressez en anglais grâce à notre guide simple et pratique."
 ---
 
 Le verbe anglais **to diverge** est un verbe régulier qui signifie diverger ou s'écarter. Dans cet article, nous allons voir comment le conjuguer à l'impératif futur parfait.

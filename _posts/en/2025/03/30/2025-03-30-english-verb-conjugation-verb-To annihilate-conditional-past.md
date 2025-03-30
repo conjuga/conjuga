@@ -2,7 +2,7 @@
 layout: post 
 title: "Le verbe 'To annihilate' : Guide de Conjugaison du Passé Conditionnel pour les Débutants"
 date: 2025-03-30
-image: assets/images/verbs/en/2025/03/To_annihilate_conditional_past.webp
+image: assets/images/verbs/en/2025/03/to_annihilate_conditional_past.webp
 categories: [Conjugaison Anglais]
 lang: en
 description: "Découvrez comment conjuguer le verbe anglais 'to annihilate' au passé conditionnel. Ce guide complet en français est idéal pour les débutants qui souhaitent apprendre à utiliser 'to annihilate' correctement avec des exemples, des expressions idiomatiques et des astuces pratiques."

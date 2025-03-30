@@ -2,7 +2,7 @@
 layout: post
 title: "Verbe 'To Be' : Guide de conjugaison au conditionnel présent pour les débutants"
 date: 2025-03-30
-image: assets/images/verbs/en/2025/03/To be_conditional_present.webp
+image: assets/images/verbs/en/2025/03/to_be_conditional_present.webp
 categories: [Conjugaison Anglais]
 lang: en
 description: "Découvrez comment conjuguer le verbe anglais irrégulier 'to be' au conditionnel présent. Ce guide complet en français est idéal pour les débutants qui souhaitent apprendre à utiliser 'to be' correctement avec des exemples, des expressions idiomatiques et des astuces pratiques."

@@ -2,7 +2,7 @@
 layout: post 
 title: "Verbe To Demolish: Guide de Conjugaison au Conditionnel Présent pour Débutants"
 date: 2025-03-30
-image: assets/images/verbs/en/2025/03/To_demolish_conditional_present.webp
+image: assets/images/verbs/en/2025/03/to_demolish_conditional_present.webp
 categories: [Conjugaison Anglais]
 lang: en 
 description: "Apprenez à conjuguer le verbe anglais 'to demolish' au conditionnel présent. Ce guide complet en français est parfait pour les débutants qui veulent apprendre à utiliser 'to demolish' correctement avec des exemples et des astuces pratiques."

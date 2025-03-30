@@ -2,7 +2,7 @@
 layout: post
 title: "Verbe To Crawl: Guide de Conjugaison Indicatif Présent pour les Débutants"
 date: 2025-03-30
-image: assets/images/verbs/en/2025/03/To_crawl_indicative_present.webp
+image: assets/images/verbs/en/2025/03/to_crawl_indicative_present.webp
 categories: [Conjugaison Anglais]
 lang: en
 description: "Découvrez comment conjuguer le verbe anglais 'to crawl' au présent. Ce guide complet en français est idéal pour les débutants qui souhaitent apprendre à utiliser 'to crawl' correctement avec des exemples, des expressions idiomatiques et des astuces pratiques."

@@ -2,7 +2,7 @@
 layout: post 
 title: "Verb To acquire: Conditional Past Perfect Conjugation Guide for Beginners"
 date: 2025-03-30
-image: assets/images/verbs/en/2025/03/To acquire_conditional_past_perfect.webp
+image: assets/images/verbs/en/2025/03/to_acquire_conditional_past_perfect.webp
 categories: [Conjugaison Anglais]
 lang: en 
 description: "Découvrez comment conjuguer le verbe anglais 'to acquire' au conditionnel passé parfait. Ce guide complet en français est idéal pour les débutants qui souhaitent apprendre à utiliser 'to acquire' correctement avec des exemples, des expressions idiomatiques et des astuces pratiques."

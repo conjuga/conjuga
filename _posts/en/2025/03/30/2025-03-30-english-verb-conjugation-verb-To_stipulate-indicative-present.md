@@ -2,7 +2,7 @@
 layout: post 
 title: "Verbe To Stipulate : Guide de Conjugaison Présent Indicatif pour Débutants"
 date: 2025-03-30
-image: assets/images/verbs/en/2025/03/To_stipulate_indicative_present.webp
+image: assets/images/verbs/en/2025/03/to_stipulate_indicative_present.webp
 categories: [Conjugaison Anglais]
 lang: en
 description: "Apprenez comment conjuguer le verbe anglais 'to stipulate' au présent indicatif. Ce guide complet en français est idéal pour les débutants qui veulent apprendre à utiliser 'to stipulate' correctement avec des exemples et des astuces pratiques."

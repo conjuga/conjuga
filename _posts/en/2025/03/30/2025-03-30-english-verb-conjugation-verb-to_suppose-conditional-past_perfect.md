@@ -2,7 +2,7 @@
 layout: post 
 title: "Verbe To suppose : Guide de conjugaison du passé parfait conditionnel pour les débutants"
 date: 2025-03-30
-image: assets/images/verbs/en/2025/03/To_suppose_conditional_past_perfect.webp
+image: assets/images/verbs/en/2025/03/to_suppose_conditional_past_perfect.webp
 categories: [Conjugaison Anglais]
 lang: en 
 description: "Découvrez comment conjuguer le verbe 'to suppose' au passé parfait conditionnel. Ce guide, rédigé en français, est idéal pour les débutants qui souhaitent apprendre à utiliser 'to suppose' correctement avec des exemples et des astuces pratiques."

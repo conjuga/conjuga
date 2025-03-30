@@ -22,7 +22,7 @@ One of the next steps in your French language journey may be learning how to con
 </div>
 {% endif %}
 
----
+<!-- --- -->
 
 ## Imperative Pluperfect Conjugation of “Planer”
 

@@ -40,3 +40,21 @@ Understanding **avoir** is essential for constructing many basic phrases in Fren
 Enhance your French learning experience with our [French Conjugation App]({{site.appStore.url}}). Practice more verbs and improve your skills on the go!
 
 Stay tuned for more French verb conjugations to enhance your language learning journey!
+
+
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.conjuga.app/french%20conjugation/2024/07/13/french-verb-conjugation-verbe-avoir-to-have-present-tense/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/19IKRl83c8I/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Avoir it All: Discover the Beauty and Nuances of French Verb Conjugation. #frenchconjugation</video:title>
+      <video:description>Learn the present tense conjugation of the French verb 'Avoir' (to have).</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=19IKRl83c8I</video:content_loc>
+      <video:player_loc>https://www.conjuga.app/french%20conjugation/2024/07/13/french-verb-conjugation-verbe-avoir-to-have-present-tense/</video:player_loc>
+      <video:duration>12</video:duration>
+      <video:publication_date>2021-09-21T00:00:00+02:00</video:publication_date>
+    </video:video>
+  </url>
+</urlset>

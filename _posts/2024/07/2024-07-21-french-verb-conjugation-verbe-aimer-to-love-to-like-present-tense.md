@@ -51,7 +51,7 @@ Stay tuned for more French verb conjugations to enhance your language learning j
   "name": "Verbe Aimer (to love/to like) in Present Tense",
   "description": "Learn the present tense conjugation of the French verb 'Aimer' (to love/to like).",
   "thumbnailUrl": "https://img.youtube.com/vi/9JjBV0nd-HQ/maxresdefault.jpg",
-  "uploadDate": "2021-09-21",
+  "uploadDate": "2021-09-21T00:00:00+02:00",
   "duration": "PT3M45S",
   "embedUrl": "https://www.youtube.com/embed/9JjBV0nd-HQ",
   "contentUrl": "https://www.youtube.com/watch?v=9JjBV0nd-HQ"

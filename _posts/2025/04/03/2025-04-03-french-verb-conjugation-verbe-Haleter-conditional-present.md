@@ -4,10 +4,9 @@ title: "Verbe Haleter: Conditional Present Conjugation Guide for Beginners"
 date: 2025-04-03
 image: assets/images/verbs/2025/04/Haleter_conditional_present.webp
 categories: [French Conjugation]
-lang: en
+lang: fr
 description: "Learn how to conjugate the French verb 'haleter' in the conditional present tense. This guide is perfect for beginners aiming to enhance their French grammar skills."
 keywords: "French verb haleter, French conditional present tense, haleter conjugation, beginner French grammar, learn French, haleter examples, haleter expressions, French verbs for beginners, how to use haleter in French, essential French verbs" 
-
 ---
 
 The verb **haleter** translates to "to pant" or "to gasp" in English. Learning how to conjugate **haleter** in the **conditional present tense** is an excellent way to further your French language studies. This verb might not be as common as **avoir** or **être**, but it's an interesting one to add to your vocabulary, especially when discussing physical activities or emotions.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Common French Verbs"
+title: "Learn Common French Verbs with Ease: Essential Conjugations, Practical Examples, and Tips to Boost Your French Speaking Skills"
 date: 2025-04-05
 image: assets/images/verbs/2025/05/Common_French_Verbs.png
 categories: [French Conjugation]

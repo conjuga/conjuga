@@ -3,7 +3,22 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="apple-itunes-app" content="app-id=1469234408, app-argument=conjuga">
+<!-- <meta name="apple-itunes-app" content="app-id=1469234408, app-argument=conjuga"> -->
+{% if page.url == "/" %}
+  <meta name="apple-itunes-app" content="app-id=1469234408, app-argument=conjuga://id1">
+{% elsif page.url == "/en/" %}
+  <meta name="apple-itunes-app" content="app-id=1543583013, app-argument=conjuga://id2">
+{% elsif page.url == "/es/" %}
+  <meta name="apple-itunes-app" content="app-id=1590682612, app-argument=conjuga://id3">
+{% elsif page.lang == "fr" %}
+  <meta name="apple-itunes-app" content="app-id=1469234408, app-argument=conjuga">
+{% elsif page.lang == "en" %}
+  <meta name="apple-itunes-app" content="app-id=1543583013, app-argument=conjuga">
+{% elsif page.lang == "es" %}
+  <meta name="apple-itunes-app" content="app-id=1590682612, app-argument=conjuga">
+{% endif %}
+
+
 <meta name="facebook-domain-verification" content="jrl092d0rroleea197uejgfwvto5ev" />
 
 <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">

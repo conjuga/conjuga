@@ -3,7 +3,7 @@ layout: post
 title: "Verbe Aller en Présent : Conjugaison, Exemples & Usage"
 date: 2024-07-13
 image: assets/images/verbs/a/verbe_aller_present_indicatif.png
-video: "https://www.youtube.com/embed/aSBgJqNegvI"
+video: "https://www.youtube.com/embed/aSBgJqNegvI?si=6RblYzfjDr_nx3Hb"
 categories: [French Conjugation]
 lang: fr
 ---
@@ -40,3 +40,36 @@ The verb **aller** is widely used in French. Here are its present tense conjugat
 Enhance your French learning experience with our [French Conjugation App]({{site.appStore.url}}). Practice more verbs and improve your skills on the go!
 
 Stay tuned for more French verb conjugations to enhance your language learning journey!
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Verbe Aller en Présent : Conjugaison, Exemples & Usage",
+  "description": "Apprenez la conjugaison du verbe 'aller' au présent de l'indicatif en français, avec des exemples d'utilisation pour une meilleure compréhension.",
+  "thumbnailUrl": [
+    "https://img.youtube.com/vi/your-video-id/maxresdefault.jpg",
+    "https://img.youtube.com/vi/your-video-id/hqdefault.jpg",
+    "https://img.youtube.com/vi/your-video-id/sddefault.jpg"
+   ],
+  "uploadDate": "2021-09-13T08:00:00+08:00",
+  "duration": "PT15S",
+  "contentUrl": "https://www.youtube.com/watch?v=aSBgJqNegvI?si=6RblYzfjDr_nx3Hb",
+  "embedUrl": "https://www.youtube.com/embed/aSBgJqNegvI?si=6RblYzfjDr_nx3Hb",
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": { "@type": "http://schema.org/WatchAction" },
+    "userInteractionCount": 3744
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "conjuga",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.your-website.com/logo.png",
+      "width": 600,
+      "height": 60
+    }
+  }
+}
+ </script>

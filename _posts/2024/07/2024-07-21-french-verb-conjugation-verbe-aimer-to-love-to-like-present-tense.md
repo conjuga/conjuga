@@ -3,8 +3,8 @@ layout: post
 title: "Verbe Aimer (to love/to like) in Present Tense"
 date: 2024-07-21
 image: assets/images/verbs/21/verbe_aimer_present_indicatif.png
-video_embed: "https://www.youtube.com/embed/9JjBV0nd-HQ"
-video_watch: "https://www.youtube.com/watch?v=9JjBV0nd-HQ"
+video_embed: "https://www.youtube.com/embed/9JjBV0nd-HQ?si=GraAyqAoYnkcIjHN"
+video_watch: "https://www.youtube.com/watch/9JjBV0nd-HQ?si=GraAyqAoYnkcIjHN"
 categories: [French Conjugation]
 lang: fr
 ---
@@ -52,7 +52,7 @@ Stay tuned for more French verb conjugations to enhance your language learning j
   "description": "Learn the present tense conjugation of the French verb 'Aimer' (to love/to like).",
   "thumbnailUrl": "https://img.youtube.com/vi/9JjBV0nd-HQ/maxresdefault.jpg",
   "uploadDate": "2021-09-21T00:00:00+02:00",
-  "duration": "PT3M45S",
+  "duration": "PT12S",
   "embedUrl": "https://www.youtube.com/embed/9JjBV0nd-HQ",
   "contentUrl": "https://www.youtube.com/watch?v=9JjBV0nd-HQ"
 }

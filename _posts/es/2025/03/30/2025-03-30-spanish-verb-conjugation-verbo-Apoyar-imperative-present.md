@@ -5,7 +5,7 @@ date: 2025-03-30
 image: assets/images/verbs/es/2025/03/apoyar_imperative_present.webp
 categories: [Spanish Conjugation]
 lang: es
-
+keywords: apoyar conjugation, spanish verb apoyar, apoyar imperative present, spanish conjugation, learn spanish
 ---
 
 El verbo español **apoyar** (to support) es uno de los verbos más utilizados y, ¡buenas noticias, es regular! En esta guía, aprenderás a conjugar *apoyar* en los tiempos más importantes para que puedas empezar a usarlo con confianza en las conversaciones diarias.

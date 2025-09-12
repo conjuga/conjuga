@@ -6,6 +6,7 @@ image: assets/images/verbs/2025/03/Soûler_imperative_imperfect.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 lang: fr
+keywords: soûler conjugation, french verb soûler, soûler imperative imperfect, french conjugation, learn french
 ---
 
 Understanding the conjugation of the French verb **soûler** can be quite a challenge for beginners. This verb, which roughly translates to 'to annoy' or 'to bore' in English, is particularly tricky in its imperative imperfect form. Here's how to conjugate it:

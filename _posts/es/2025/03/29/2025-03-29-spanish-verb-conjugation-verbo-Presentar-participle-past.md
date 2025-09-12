@@ -5,7 +5,7 @@ date: 2025-03-29
 image: assets/images/verbs/es/2025/03/presentar_participle_past.webp
 categories: [Conjugación en español]
 lang: es
-
+keywords: presentar conjugation, spanish verb presentar, presentar participle past, spanish conjugation, learn spanish
 ---
 
 El verbo español **presentar** (to present) es uno de los verbos más utilizados, ¡y buenas noticias, es regular! En esta guía, aprenderás a conjugar *presentar* en los tiempos más importantes para que puedas empezar a usarlo con confianza en las conversaciones diarias.

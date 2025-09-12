@@ -5,6 +5,7 @@ date: 2024-07-21
 image: assets/images/verbs/21/verbe_voir_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: voir conjugation, french verb voir, voir present tense, french conjugation, learn french
 ---
 
 The verb **voir** is widely used in French. Here are its present tense conjugations:

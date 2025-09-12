@@ -1,12 +1,12 @@
 ---
 layout: post 
-title: "Le verbe 'To annihilate' : Guide de Conjugaison du Passé Conditionnel pour les Débutants"
+title: "Verb 'To Annihilate': Past Conditional Conjugation Guide for Beginners"
 date: 2025-03-30
 image: assets/images/verbs/en/2025/03/to_annihilate_conditional_past.webp
-categories: [Conjugaison Anglais]
+categories: [English Conjugation]
 lang: en
-description: "Découvrez comment conjuguer le verbe anglais 'to annihilate' au passé conditionnel. Ce guide complet en français est idéal pour les débutants qui souhaitent apprendre à utiliser 'to annihilate' correctement avec des exemples, des expressions idiomatiques et des astuces pratiques."
-keywords: conjugaison to annihilate, verbe anglais to annihilate, apprendre l'anglais, conjugaison anglaise pour débutants, expressions avec to annihilate, grammaire anglaise, verbe irrégulier to annihilate, conjuguer to annihilate en anglais, to annihilate past tense, to annihilate present perfect
+description: "Discover how to conjugate the English verb 'to annihilate' in the past conditional. This comprehensive guide is ideal for beginners who want to learn how to use 'to annihilate' correctly with examples, idiomatic expressions, and practical tips."
+keywords: annihilate conjugation, english verb to annihilate, to annihilate conditional past, english conjugation, learn english
 ---
 
 Le verbe anglais **to annihilate** est un verbe irrégulier qui signifie "annihiler", "détruire complètement". Sa maîtrise est essentielle pour quiconque souhaite parler anglais couramment. Dans cet article, nous allons explorer sa conjugaison au passé conditionnel, des exemples concrets, des expressions idiomatiques populaires, ainsi que des astuces pour l’apprendre efficacement.

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Verbo Cambiar: Guía de Conjugación en Presente de Indicativo para Principiantes"
+title: "Verbo Cambiar: Guía de Conjugación en Presente Indicativo para Principiantes"
 date: 2025-03-29
 image: assets/images/verbs/es/2025/03/cambiar_indicative_present.webp
-categories: [Conjugación en español]
+categories: [Conjugación Española]
 lang: es
+keywords: cambiar conjugation, spanish verb cambiar, cambiar indicative present, spanish conjugation, learn spanish
 ---
 
 El verbo español **cambiar** (to change) es uno de los verbos más utilizados, ¡y buenas noticias, es regular! En esta guía, aprenderás cómo conjugar *cambiar* en el tiempo presente para que puedas empezar a usarlo con confianza en las conversaciones cotidianas.

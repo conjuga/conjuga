@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Verbo Dar: Guía de Conjugación en Indicativo Imperfecto para Principiantes"
+title: "Verbo Dar: Guía de Conjugación en Imperfecto Indicativo para Principiantes"
 date: 2025-03-29
 image: assets/images/verbs/es/2025/03/dar_indicative_imperfect.webp
-categories: [Conjugación en Español]
+categories: [Conjugación Española]
 lang: es
+keywords: dar conjugation, spanish verb dar, dar indicative imperfect, spanish conjugation, learn spanish
 ---
 
 El verbo español **dar** es uno de los verbos más utilizados, ¡y la buena noticia es que es regular! En esta guía, aprenderás cómo conjugar *dar* en los tiempos más importantes para que puedas empezar a usarlo con confianza en las conversaciones diarias.

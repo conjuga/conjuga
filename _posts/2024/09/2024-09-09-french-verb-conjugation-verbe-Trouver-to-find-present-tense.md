@@ -5,6 +5,7 @@ date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_trouver_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: trouver conjugation, french verb trouver, trouver present tense, french conjugation, learn french
 ---
 
 The verb **trouver** is commonly used in French. Here are its present tense conjugations:

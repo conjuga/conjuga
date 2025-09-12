@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Le Verbe 'To Saw': Guide Sur La Conjugaison du Plus-que-parfait Conditionnel Pour Les Débutants"
+title: "Verb 'to saw': Past Perfect Conditional Conjugation Guide for Beginners"
 date: 2025-04-03
 image: assets/images/verbs/en/2025/04/to_saw_conditional_past_perfect.webp
-categories: [Conjugaison Anglais]
-lang: en 
-description: "Découvrez comment conjuguer le verbe anglais irrégulier 'to saw' au plus-que-parfait conditionnel. Ce guide complet en français est idéal pour les débutants qui souhaitent apprendre à utiliser 'to saw' correctement avec des exemples, des expressions idiomatiques et des astuces pratiques."
-keywords: conjugaison to saw, verbe anglais to saw, apprendre l'anglais, conjugaison anglaise pour débutants, expressions avec to saw, grammaire anglaise, verbe irrégulier to saw, conjuguer to saw en anglais, to saw past tense, to saw present perfect
+categories: [English Conjugation]
+lang: en
+keywords: saw conjugation, english verb to saw, saw conditional past perfect, english conjugation, learn english
 ---
 
 Le verbe anglais **to saw** est un verbe irrégulier couramment utilisé dans les conversations et les écrits en anglais. Sa maîtrise est cruciale pour ceux qui souhaitent parler couramment la langue. Dans cet article, nous allons explorer sa conjugaison au plus-que-parfait conditionnel, des exemples d'utilisation, des expressions idiomatiques, ainsi que des astuces pour l'apprendre efficacement.

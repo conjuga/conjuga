@@ -3,8 +3,9 @@ layout: post
 title: "Verbo Repetir: Guía de Conjugación en Presente Indicativo para Principiantes"
 date: 2025-03-29
 image: assets/images/verbs/es/2025/03/repetir_indicative_present.webp
-categories: [Conjugación en español]
+categories: [Conjugación Española]
 lang: es
+keywords: repetir conjugation, spanish verb repetir, repetir indicative present, spanish conjugation, learn spanish
 ---
 
 El verbo español **repetir** (to repeat) es uno de los verbos más comúnmente usados, ¡y buenas noticias, es regular! En esta guía, aprenderás cómo conjugar *repetir* en los tiempos más importantes para que puedas empezar a usarlo con confianza en las conversaciones diarias.

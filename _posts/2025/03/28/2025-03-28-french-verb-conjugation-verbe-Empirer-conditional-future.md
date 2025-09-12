@@ -5,6 +5,7 @@ date: 2025-03-28
 image: assets/images/verbs/2025/03/Empirer_conditional_future.webp
 categories: [French Conjugation]
 lang: fr
+keywords: empirer conjugation, french verb empirer, empirer conditional future, french conjugation, learn french
 ---
 
 In the fascinating journey of learning French, understanding verb conjugation is key to enhancing your communication skills. Today, we will focus on the verb 'Empirer' (to worsen) and how to conjugate it in the conditional future tense.

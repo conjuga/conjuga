@@ -6,6 +6,7 @@ image: assets/images/verbs/2025/03/Remplir_indicative_present.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 lang: fr
+keywords: remplir conjugation, french verb remplir, remplir indicative present, french conjugation, learn french
 ---
 
 Mastering the present tense conjugation of the French verb **remplir** (to fill) is a foundational step in French language learning. Here is how to conjugate it in the indicative present tense:

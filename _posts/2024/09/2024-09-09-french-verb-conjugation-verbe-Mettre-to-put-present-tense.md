@@ -5,6 +5,7 @@ date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_mettre_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: mettre conjugation, french verb mettre, mettre present tense, french conjugation, learn french
 ---
 
 The verb **mettre** is widely used in French. Here are its present tense conjugations:

@@ -5,6 +5,7 @@ date: 2025-04-03
 image: assets/images/verbs/es/2025/04/seguir_conditional_simple_past.webp
 categories: [Spanish Conjugation]
 lang: es
+keywords: seguir conjugation, spanish verb seguir, seguir conditional simple past, spanish conjugation, learn spanish
 ---
 
 El verbo español **seguir** (to follow, to continue) es uno de los verbos más utilizados. En esta guía, aprenderás cómo conjugar *seguir* en los tiempos más importantes para que puedas empezar a usarlo con confianza en las conversaciones diarias.

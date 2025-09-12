@@ -5,6 +5,7 @@ date: 2024-09-16
 image: assets/images/verbs/2024/09/16/verbe_choisir_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: choisir conjugation, french verb choisir, choisir present tense, french conjugation, learn french
 ---
 
 The verb **choisir** is used to talk about choosing or selecting something. Here are its present tense conjugations:

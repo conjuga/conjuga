@@ -5,7 +5,7 @@ date: 2025-03-29
 image: assets/images/verbs/es/2025/03/olvidar_indicative_present.webp
 categories: [Spanish Conjugation]
 lang: es
-
+keywords: olvidar conjugation, spanish verb olvidar, olvidar indicative present, spanish conjugation, learn spanish
 ---
 
 El verbo en español **olvidar** (to forget) es uno de los verbos más utilizados, ¡y la buena noticia es que es regular! En esta guía, aprenderás cómo conjugar *olvidar* en los tiempos más importantes para que puedas empezar a usarlo con confianza en las conversaciones cotidianas.

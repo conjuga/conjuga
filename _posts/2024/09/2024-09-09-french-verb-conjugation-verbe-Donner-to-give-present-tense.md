@@ -5,6 +5,7 @@ date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_donner_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: donner conjugation, french verb donner, donner present tense, french conjugation, learn french
 ---
 
 The verb **donner** is commonly used in French. Here are its present tense conjugations:

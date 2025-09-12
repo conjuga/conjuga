@@ -5,6 +5,7 @@ date: 2025-03-30
 image: assets/images/verbs/es/2025/03/escribir_imperative_present.webp
 categories: [Conjugación en español]
 lang: es
+keywords: escribir conjugation, spanish verb escribir, escribir imperative present, spanish conjugation, learn spanish
 ---
 
 El verbo español **escribir** (to write) es uno de los verbos más utilizados, ¡y la buena noticia es que es regular! En esta guía, aprenderás cómo conjugar *escribir* en los tiempos más importantes para que puedas comenzar a usarlo con confianza en las conversaciones cotidianas.

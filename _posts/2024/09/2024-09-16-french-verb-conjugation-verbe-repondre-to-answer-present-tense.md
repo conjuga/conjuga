@@ -5,6 +5,7 @@ date: 2024-09-16
 image: assets/images/verbs/2024/09/16/verbe_repondre_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: répondre conjugation, french verb répondre, répondre present tense, french conjugation, learn french
 ---
 
 The verb **répondre** is used to talk about answering questions or responding. Here are its present tense conjugations:

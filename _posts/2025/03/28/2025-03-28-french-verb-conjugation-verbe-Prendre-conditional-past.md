@@ -6,6 +6,7 @@ image: assets/images/verbs/2025/03/prendre_conditional_past.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 lang: fr
+keywords: prendre conjugation, french verb prendre, prendre conditional past, french conjugation, learn french
 ---
 
 The verb **prendre** in French means "to take," and it's a crucial verb to understand when learning French. In this guide, we will learn how to conjugate **prendre** in the conditional past tense.

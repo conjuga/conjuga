@@ -5,6 +5,7 @@ date: 2024-07-13
 image: assets/images/verbs/a/verbe_etre_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: être conjugation, french verb être, être present tense, french conjugation, learn french
 ---
 
 Conjugating the verb **être** in the present tense is essential for mastering French. Here are the conjugations:

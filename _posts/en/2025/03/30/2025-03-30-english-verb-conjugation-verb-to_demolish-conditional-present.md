@@ -1,12 +1,12 @@
 ---
 layout: post 
-title: "Verbe To Demolish: Guide de Conjugaison au Conditionnel Présent pour Débutants"
+title: "Verb 'To Demolish': Present Conditional Conjugation Guide for Beginners"
 date: 2025-03-30
 image: assets/images/verbs/en/2025/03/to_demolish_conditional_present.webp
-categories: [Conjugaison Anglais]
+categories: [English Conjugation]
 lang: en 
-description: "Apprenez à conjuguer le verbe anglais 'to demolish' au conditionnel présent. Ce guide complet en français est parfait pour les débutants qui veulent apprendre à utiliser 'to demolish' correctement avec des exemples et des astuces pratiques."
-keywords: conjugaison to demolish, verbe anglais to demolish, apprendre l'anglais, conjugaison anglaise pour débutants, expressions avec to demolish, grammaire anglaise, verbe irrégulier to demolish, conjuguer to demolish en anglais, to demolish conditionnel présent
+description: "Learn how to conjugate the English verb 'to demolish' in the present conditional. This comprehensive guide is perfect for beginners who want to learn how to use 'to demolish' correctly with examples and practical tips."
+keywords: demolish conjugation, english verb to demolish, to demolish conditional present, english conjugation, learn english
 ---
 
 Le verbe anglais **to demolish** est un verbe régulier souvent utilisé dans divers contextes, allant de la construction aux discussions figuratives. Dans cet article, nous allons explorer sa conjugaison au conditionnel présent, fournir des exemples pratiques et partager des astuces pour l'apprendre efficacement.

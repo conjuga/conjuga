@@ -5,6 +5,7 @@ date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_habiter_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: habiter conjugation, french verb habiter, habiter present tense, french conjugation, learn french
 ---
 
 The verb **habiter** is widely used in French. Here are its present tense conjugations:

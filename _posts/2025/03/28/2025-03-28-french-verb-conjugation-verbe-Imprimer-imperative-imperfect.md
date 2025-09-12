@@ -6,6 +6,7 @@ image: assets/images/verbs/2025/03/Imprimer_imperfect_imperative.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 lang: fr
+keywords: imprimer conjugation, french verb imprimer, imprimer imperative imperfect, french conjugation, learn french
 ---
 
 Understanding the correct conjugation of French verbs is essential for effective communication in the language. In this guide, we will focus on the verb '**Imprimer**' (to print) in its **Imperfect Imperative** form. 

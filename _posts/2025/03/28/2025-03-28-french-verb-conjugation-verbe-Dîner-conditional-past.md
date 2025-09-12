@@ -6,6 +6,7 @@ image: assets/images/verbs/2025/03/Dîner_conditional_past.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 lang: fr
+keywords: dîner conjugation, french verb dîner, dîner conditional past, french conjugation, learn french
 ---
 
 The French verb **dîner** means "to dine" or "to have dinner." Today, we're going to explore the past conditional conjugation of this verb, a complex tense that expresses what would have happened under certain conditions. 

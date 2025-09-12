@@ -1,11 +1,12 @@
 ---
 layout: post 
-title: "Verbe 'To Turn': Guide de Conjugaison Futur Conditionnel pour Débutants"
+title: "Verb 'To Turn': Future Conditional Conjugation Guide for Beginners"
 date: 2025-03-29
 image: assets/images/verbs/en/2025/03/To_turn_conditional_future.webp
-categories: [Conjugaison Anglais]
+categories: [English Conjugation]
 lang: en 
-
+description: "Learn to conjugate the English verb 'to turn' in the future conditional. Improve your English with our simple and practical conjugation guide."
+keywords: turn conjugation, english verb to turn, to turn conditional future, english conjugation, learn english
 ---
 
 Le verbe anglais **to turn** est essentiel à maitriser pour s'exprimer correctement en anglais. Dans cet article, nous allons étudier sa conjugaison au futur conditionnel.

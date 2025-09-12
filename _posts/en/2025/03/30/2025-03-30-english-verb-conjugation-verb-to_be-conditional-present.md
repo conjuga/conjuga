@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Verbe 'To Be' : Guide de conjugaison au conditionnel présent pour les débutants"
+title: "Verb 'To Be': Present Conditional Conjugation Guide for Beginners"
 date: 2025-03-30
 image: assets/images/verbs/en/2025/03/to_be_conditional_present.webp
-categories: [Conjugaison Anglais]
+categories: [English Conjugation]
 lang: en
-description: "Découvrez comment conjuguer le verbe anglais irrégulier 'to be' au conditionnel présent. Ce guide complet en français est idéal pour les débutants qui souhaitent apprendre à utiliser 'to be' correctement avec des exemples, des expressions idiomatiques et des astuces pratiques."
-keywords: conjugaison to be, verbe anglais to be, apprendre l'anglais, conjugaison anglaise pour débutants, expressions avec to be, grammaire anglaise, verbe irrégulier to be, conjuguer to be en anglais, to be conditional present
+description: "Discover how to conjugate the irregular English verb 'to be' in the present conditional. This comprehensive guide is ideal for beginners who want to learn how to use 'to be' correctly with examples, popular idiomatic expressions, and practical tips."
+keywords: to be conjugation, english verb to be, to be conditional present, english conjugation, learn english
 ---
 
 Le verbe anglais **to be** est probablement le verbe le plus utilisé en anglais. Il est essentiel pour quiconque souhaite parler anglais couramment. Dans cet article, nous allons explorer sa conjugaison au conditionnel présent, des exemples concrets, des expressions idiomatiques populaires, ainsi que des astuces pour l’apprendre efficacement.

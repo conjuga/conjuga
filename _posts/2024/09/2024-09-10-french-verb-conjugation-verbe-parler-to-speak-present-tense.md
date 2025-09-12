@@ -5,6 +5,7 @@ date: 2024-09-10
 image: assets/images/verbs/2024/09/10/verbe_parler_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: parler conjugation, french verb parler, parler present tense, french conjugation, learn french
 ---
 
 The verb **parler** is fundamental for communication in French. Here are its present tense conjugations:

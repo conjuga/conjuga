@@ -7,7 +7,7 @@ image: assets/images/verbs/2025/04/Éclater_conditional_present.webp
 categories: [French Conjugation]
 lang: fr
 description: "Apprenez comment conjuguer le verbe 'éclater' au conditionnel présent. Un guide essentiel pour les débutants souhaitant parler et comprendre le français de base avec confiance."
-keywords: "Verbe français éclater, conditionnel présent, conjugaison d'éclater, grammaire française pour débutants, apprendre le français, exemples d'éclater, expressions avec éclater, verbes français pour débutants, comment utiliser éclater en français, verbes essentiels en français" 
+keywords: "Verbe français éclater, conditionnel présent, conjugaison d'éclater, grammaire française pour débutants, apprendre le français, exemples d'éclater, expressions avec éclater, verbes français pour débutants, comment utiliser éclater en français, verbes essentiels en français, éclater conjugation, french verb éclater, éclater conditional present, french conjugation, learn french" 
 
 --- 
 

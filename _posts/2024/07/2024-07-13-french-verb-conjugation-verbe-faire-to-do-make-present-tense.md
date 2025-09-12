@@ -5,6 +5,7 @@ date: 2024-07-13
 image: assets/images/verbs/a/verbe_faire_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: faire conjugation, french verb faire, faire present tense, french conjugation, learn french
 ---
 
 The verb **faire** is very versatile in French. Here are its present tense conjugations:

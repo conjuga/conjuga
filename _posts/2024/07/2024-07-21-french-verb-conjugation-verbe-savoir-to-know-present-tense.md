@@ -5,6 +5,7 @@ date: 2024-07-21
 image: assets/images/verbs/21/verbe_savoir_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: savoir conjugation, french verb savoir, savoir present tense, french conjugation, learn french
 ---
 
 The verb **savoir** is widely used in French. Here are its present tense conjugations:

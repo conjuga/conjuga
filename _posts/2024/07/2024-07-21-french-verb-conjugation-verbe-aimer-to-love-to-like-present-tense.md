@@ -7,6 +7,7 @@ video_embed: "https://www.youtube.com/embed/9JjBV0nd-HQ?si=GraAyqAoYnkcIjHN"
 video_watch: "https://www.youtube.com/watch/9JjBV0nd-HQ?si=GraAyqAoYnkcIjHN"
 categories: [French Conjugation]
 lang: fr
+keywords: aimer conjugation, french verb aimer, aimer present tense, french conjugation, learn french
 ---
 
 The verb **aimer** is widely used in French. Here are its present tense conjugations:

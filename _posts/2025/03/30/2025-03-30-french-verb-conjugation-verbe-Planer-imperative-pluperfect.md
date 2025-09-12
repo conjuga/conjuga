@@ -7,7 +7,7 @@ image: assets/images/verbs/2025/03/Planer_imperative_pluperfect.webp
 categories: [French Conjugation]
 lang: fr 
 description: "Discover how to conjugate the French verb 'planer' in the imperative pluperfect tense. Perfect for beginners seeking to expand their French grammar knowledge."
-keywords: "French verb planer, French imperative pluperfect tense, planer conjugation, beginner French grammar, learn French, planer examples, French verbs for beginners, how to use planer in French, essential French verbs" 
+keywords: "French verb planer, French imperative pluperfect tense, planer conjugation, beginner French grammar, learn French, planer examples, French verbs for beginners, how to use planer in French, essential French verbs, planer conjugation, french verb planer, planer imperative pluperfect, french conjugation, learn french" 
 
 --- 
 

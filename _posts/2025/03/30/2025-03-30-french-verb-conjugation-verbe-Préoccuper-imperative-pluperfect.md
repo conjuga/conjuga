@@ -6,7 +6,7 @@ image: assets/images/verbs/2025/03/Préoccuper_imperative_pluperfect.webp
 categories: [French Conjugation]
 lang: fr 
 description: "Learn how to conjugate the French verb 'préoccuper' in the imperative pluperfect tense. A beginner's guide to mastering this complex verb form."
-keywords: "French verb préoccuper, imperative pluperfect tense, préoccuper conjugation, beginner French grammar, learn French, préoccuper examples, French verbs for beginners, how to use préoccuper in French, essential French verbs" 
+keywords: "French verb préoccuper, imperative pluperfect tense, préoccuper conjugation, beginner French grammar, learn French, préoccuper examples, French verbs for beginners, how to use préoccuper in French, essential French verbs, préoccuper conjugation, french verb préoccuper, préoccuper imperative pluperfect, french conjugation, learn french" 
 
 --- 
 

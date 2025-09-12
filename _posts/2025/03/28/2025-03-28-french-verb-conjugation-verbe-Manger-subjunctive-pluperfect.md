@@ -6,6 +6,7 @@ image: assets/images/verbs/2025/03/manger_subjunctive_pluperfect.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 lang: fr
+keywords: manger conjugation, french verb manger, manger subjunctive pluperfect, french conjugation, learn french
 ---
 
 In French grammar, the subjunctive pluperfect tense, also known as le plus-que-parfait du subjonctif, is used to express hypothetical or unreal past actions. The French verb 'Manger' (to eat) in the subjunctive pluperfect might seem challenging, but with consistent practice, it gets easier. Let's dive in!

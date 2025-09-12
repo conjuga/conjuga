@@ -5,6 +5,7 @@ date: 2025-04-03
 image: assets/images/verbs/es/2025/04/querer_conditional_simple_past.webp
 categories: [Spanish Conjugation]
 lang: es
+keywords: querer conjugation, spanish verb querer, querer conditional simple past, spanish conjugation, learn spanish
 ---
 
 El verbo español **querer** (to want) es uno de los verbos más utilizados, y lo mejor de todo es que es regular. En esta guía, aprenderás cómo conjugar *querer* en los tiempos más importantes para que puedas comenzar a usarlo con confianza en conversaciones cotidianas.

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Verbo Llegar: Indicative Pluperfect Guía de Conjugación para Principiantes"
+title: "Verbo Llegar: Guía de Conjugación en Pluscuamperfecto Indicativo para Principiantes"
 date: 2025-03-29
 image: assets/images/verbs/es/2025/03/llegar_indicative_pluperfect.webp
-categories: [Spanish Conjugation]
+categories: [Conjugación Española]
 lang: es
+keywords: llegar conjugation, spanish verb llegar, llegar indicative pluperfect, spanish conjugation, learn spanish
+---
 
 ---
 

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Verbo Hablar: Guía de Conjugación en Indicativo Imperfecto para Principiantes"
+title: "Verbo Hablar: Guía de Conjugación en Imperfecto Indicativo para Principiantes"
 date: 2025-03-29
 image: assets/images/verbs/es/2025/03/hablar_indicative_imperfect.webp
-categories: [Conjugación en Español]
+categories: [Conjugación Española]
 lang: es
+keywords: hablar conjugation, spanish verb hablar, hablar indicative imperfect, spanish conjugation, learn spanish
 ---
 
 El verbo español **hablar** (to speak) es uno de los verbos más comúnmente utilizados, ¡y la buena noticia es que es regular! En esta guía aprenderás a conjugar *hablar* en los tiempos más importantes para que puedas empezar a usarlo con confianza en las conversaciones cotidianas.

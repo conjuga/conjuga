@@ -5,6 +5,7 @@ date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_essayer_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: essayer conjugation, french verb essayer, essayer present tense, french conjugation, learn french
 ---
 
 The verb **essayer** is commonly used in French. Here are its present tense conjugations:

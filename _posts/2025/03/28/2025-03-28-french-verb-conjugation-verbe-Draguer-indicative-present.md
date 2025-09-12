@@ -6,6 +6,7 @@ image: assets/images/verbs/2025/03/Draguer_indicative_present.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 lang: fr
+keywords: draguer conjugation, french verb draguer, draguer indicative present, french conjugation, learn french
 ---
 
 The French verb **draguer** means to flirt or to pick up. Mastering its conjugation in the indicative present tense will enhance your ability to express romantic interests in French. Here are the conjugations:

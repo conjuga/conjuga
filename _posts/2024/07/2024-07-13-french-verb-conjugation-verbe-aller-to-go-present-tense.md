@@ -6,6 +6,7 @@ image: assets/images/verbs/a/verbe_aller_present_indicatif.png
 video: "https://www.youtube.com/embed/aSBgJqNegvI?si=6RblYzfjDr_nx3Hb"
 categories: [French Conjugation]
 lang: fr
+keywords: aller conjugation, french verb aller, aller present tense, french conjugation, learn french
 ---
 
 The verb **aller** is widely used in French. Here are its present tense conjugations:

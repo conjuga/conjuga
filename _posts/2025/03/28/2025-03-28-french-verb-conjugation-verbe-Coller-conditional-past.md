@@ -5,6 +5,7 @@ date: 2025-03-28
 image: assets/images/verbs/2025/03/Coller_conditional_past.webp
 categories: [French Conjugation]
 lang: fr
+keywords: coller conjugation, french verb coller, coller conditional past, french conjugation, learn french
 ---
 
 The French verb **coller** means to stick or to glue. Conjugating **coller** in the past conditional tense may seem challenging for beginners. However, with practice and understanding, it becomes second nature. 

@@ -5,6 +5,7 @@ date: 2024-07-17
 image: assets/images/verbs/b/verbe_penser_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: penser conjugation, french verb penser, penser present tense, french conjugation, learn french
 ---
 
 The verb **penser** is a fundamental verb in French, commonly used to express thoughts and opinions. Here are its present tense conjugations:

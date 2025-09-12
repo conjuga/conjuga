@@ -6,6 +6,7 @@ image: assets/images/verbs/2025/03/Attenter_subjunctive_past_-_alternative_form.
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 lang: fr
+keywords: attenter conjugation, french verb attenter, attenter subjunctive past, french conjugation, learn french
 ---
 
 Mastering the conjugation of French verbs can seem like a daunting task, but it's key to fluent communication in the language. Today, we will focus on the verb 'Attenter' in the Subjunctive Past Alternative form. 

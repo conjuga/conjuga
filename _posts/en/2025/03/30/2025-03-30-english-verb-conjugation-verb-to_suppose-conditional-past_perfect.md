@@ -1,12 +1,12 @@
 ---
 layout: post 
-title: "Verbe To suppose : Guide de conjugaison du passé parfait conditionnel pour les débutants"
+title: "Verb 'To suppose': Past Perfect Conditional Conjugation Guide for Beginners"
 date: 2025-03-30
 image: assets/images/verbs/en/2025/03/to_suppose_conditional_past_perfect.webp
-categories: [Conjugaison Anglais]
+categories: [English Conjugation]
 lang: en 
-description: "Découvrez comment conjuguer le verbe 'to suppose' au passé parfait conditionnel. Ce guide, rédigé en français, est idéal pour les débutants qui souhaitent apprendre à utiliser 'to suppose' correctement avec des exemples et des astuces pratiques."
-keywords: conjugaison to suppose, verbe anglais to suppose, apprendre l'anglais, conjugaison anglaise pour débutants, grammaire anglaise, verbe irrégulier to suppose, conjuguer to suppose en anglais, to suppose past perfect conditional
+description: "Discover how to conjugate the verb 'to suppose' in the past perfect conditional. This guide is ideal for beginners who want to learn how to use 'to suppose' correctly with examples and practical tips."
+keywords: suppose conjugation, english verb to suppose, to suppose past perfect conditional, english conjugation, learn english
 ---
 
 Le verbe anglais **to suppose** est un verbe couramment utilisé dans la langue anglaise. Il est utilisé pour exprimer une idée ou une hypothèse. Dans cet article, nous allons explorer comment conjuguer ce verbe au passé parfait conditionnel, avec des exemples concrets et des astuces pour l'apprendre efficacement.

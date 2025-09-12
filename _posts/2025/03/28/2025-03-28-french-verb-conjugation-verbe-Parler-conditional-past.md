@@ -5,6 +5,7 @@ date: 2025-03-28
 image: assets/images/verbs/2025/03/parler_conditional_past.webp
 categories: [French Conjugation]
 lang: fr
+keywords: parler conjugation, french verb parler, parler conditional past, french conjugation, learn french
 ---
 
 Descending from Latin, French is a Romance language that is both beautiful and complex. Today, we'll focus on the past conditional of the verb 'parler' (to speak). Understanding this tense is crucial for expressing what would have happened under different circumstances.

@@ -5,6 +5,7 @@ date: 2024-09-09
 image: assets/images/verbs/2024/09/09/verbe_creer_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: créer conjugation, french verb créer, créer present tense, french conjugation, learn french
 ---
 
 The verb **créer** is widely used in French. Here are its present tense conjugations:

@@ -6,6 +6,7 @@ image: assets/images/verbs/2025/03/Signifier_participle_past.webp
 # video: "https://www.youtube.com/embed/19IKRl83c8I"
 categories: [French Conjugation]
 lang: fr
+keywords: signifier conjugation, french verb signifier, signifier participle past, french conjugation, learn french
 ---
 
 The French verb **signifier** translates to mean or signify in English. It's an essential word when communicating in French, especially when conveying meanings. In this post, we will be exploring its past participle conjugation.

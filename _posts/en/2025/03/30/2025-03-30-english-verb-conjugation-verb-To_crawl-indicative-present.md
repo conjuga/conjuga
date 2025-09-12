@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Verbe To Crawl: Guide de Conjugaison Indicatif Présent pour les Débutants"
+title: "Verb 'To Crawl': Present Indicative Conjugation Guide for Beginners"
 date: 2025-03-30
 image: assets/images/verbs/en/2025/03/to_crawl_indicative_present.webp
-categories: [Conjugaison Anglais]
+categories: [English Conjugation]
 lang: en
-description: "Découvrez comment conjuguer le verbe anglais 'to crawl' au présent. Ce guide complet en français est idéal pour les débutants qui souhaitent apprendre à utiliser 'to crawl' correctement avec des exemples, des expressions idiomatiques et des astuces pratiques."
-keywords: conjugaison to crawl, verbe anglais to crawl, apprendre l'anglais, conjugaison anglaise pour débutants, expressions avec to crawl, grammaire anglaise, conjuguer to crawl en anglais, to crawl present tense, to crawl present perfect
+description: "Discover how to conjugate the English verb 'to crawl' in the present indicative. This comprehensive guide is ideal for beginners who want to learn how to use 'to crawl' correctly with examples, idiomatic expressions, and practical tips."
+keywords: crawl conjugation, english verb to crawl, to crawl indicative present, english conjugation, learn english
 ---
 
 Le verbe anglais **to crawl** est couramment utilisé pour décrire le mouvement lent et à quatre pattes, typique des bébés ou des insectes. Dans ce guide, nous allons vous montrer comment conjuguer **to crawl** au présent, avec des exemples concrets, des expressions idiomatiques et des astuces pour l'apprendre efficacement.

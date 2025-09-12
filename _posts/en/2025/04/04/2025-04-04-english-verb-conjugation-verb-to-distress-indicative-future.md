@@ -1,12 +1,12 @@
 ---
 layout: post 
-title: "Verbe To distress: Guide de Conjugaison Futur Indicatif pour Débutants"
+title: "Verb 'to distress': Future Indicative Conjugation Guide for Beginners"
 date: 2025-04-04
 image: assets/images/verbs/en/2025/04/to_distress_indicative_future.webp
-categories: [Conjugaison Anglais]
+categories: [English Conjugation]
 lang: en 
-description: "Apprenez à conjuguer le verbe 'to distress' au futur indicatif en anglais. Ce guide en français est parfait pour les débutants qui souhaitent utiliser 'to distress' correctement, avec des exemples, des expressions courantes et des conseils pratiques."
-keywords: conjugaison to distress, verbe anglais to distress, apprendre l'anglais, conjugaison anglaise pour débutants, expressions avec to distress, grammaire anglaise, verbe irrégulier to distress, conjuguer to distress en anglais, to distress future tense
+description: "Learn how to conjugate the verb 'to distress' in the future indicative in English. This guide is perfect for beginners who want to use 'to distress' correctly, with examples, common expressions, and practical tips."
+keywords: distress conjugation, english verb to distress, to distress future indicative, english conjugation, learn english
 ---
 
 Le verbe anglais **to distress** est un verbe régulier qui signifie "causer de la détresse". Dans ce guide, nous allons explorer comment il est conjugué au futur indicatif, avec des exemples concrets et des conseils pour l'apprendre efficacement.

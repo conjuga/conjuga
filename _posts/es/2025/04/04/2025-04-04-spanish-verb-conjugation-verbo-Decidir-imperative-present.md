@@ -5,6 +5,7 @@ date: 2025-04-04
 image: assets/images/verbs/es/2025/04/decidir_imperative_present.webp
 categories: [Conjugación en español]
 lang: es
+keywords: decidir conjugation, spanish verb decidir, decidir imperative present, spanish conjugation, learn spanish
 ---
 
 El verbo español **decidir** (to decide) es uno de los verbos más utilizados y, ¡buenas noticias, es regular! En esta guía, aprenderás a conjugar *decidir* en los tiempos más importantes para que puedas empezar a usarlo con confianza en conversaciones cotidianas.

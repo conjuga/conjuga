@@ -5,6 +5,7 @@ date: 2025-03-29
 image: assets/images/verbs/es/2025/03/repetir_participle_past.webp
 categories: [Conjugación Española]
 lang: es
+keywords: repetir conjugation, spanish verb repetir, repetir participle past, spanish conjugation, learn spanish
 ---
 
 El verbo español **repetir** (to repeat) es uno de los verbos más utilizados: ¡y buenas noticias, es regular! En esta guía, aprenderás cómo conjugar *repetir* en los tiempos más importantes para que puedas comenzar a usarlo con confianza en las conversaciones cotidianas.

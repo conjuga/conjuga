@@ -5,6 +5,7 @@ date: 2024-07-14
 image: assets/images/verbs/b/verbe_vouloir_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+keywords: vouloir conjugation, french verb vouloir, vouloir present tense, french conjugation, learn french
 ---
 
 The verb **vouloir** is a very common and essential verb in French. Here are its present tense conjugations:

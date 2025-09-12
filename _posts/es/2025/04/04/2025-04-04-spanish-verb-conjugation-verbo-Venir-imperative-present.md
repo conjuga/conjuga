@@ -5,6 +5,7 @@ date: 2025-04-04
 image: assets/images/verbs/es/2025/04/venir_imperative_present.webp
 categories: [Conjugación en español]
 lang: es
+keywords: venir conjugation, spanish verb venir, venir imperative present, spanish conjugation, learn spanish
 ---
 
 El verbo español **venir** (to come) es uno de los verbos más utilizados—¡y buena noticia, es irregular! En esta guía, aprenderás cómo conjugar *venir* en los tiempos más importantes para que puedas empezar a usarlo con confianza en las conversaciones cotidianas.

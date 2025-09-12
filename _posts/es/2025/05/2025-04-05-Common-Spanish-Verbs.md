@@ -5,6 +5,7 @@ date: 2025-04-05
 image: assets/images/verbs/es/2025/05/Common_Spanish_Verbs.png
 categories: [Conjugación en español]
 lang: es
+keywords: common spanish verbs, spanish verbs, learn spanish, spanish conjugation, spanish verb conjugation
 ---
 
 # Spanish Verbs

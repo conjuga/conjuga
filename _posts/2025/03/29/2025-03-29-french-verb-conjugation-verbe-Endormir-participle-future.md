@@ -5,7 +5,7 @@ date: 2025-03-29
 image: assets/images/verbs/2025/03/Endormir_participle_future.webp
 categories: [French Conjugation]
 lang: fr
-
+keywords: endormir conjugation, french verb endormir, endormir participle future, french conjugation, learn french
 ---
 
 La conjugaison du verbe **endormir** au futur participe est essentielle pour la communication en français. Voici les conjugaisons correctes :

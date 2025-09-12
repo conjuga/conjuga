@@ -12,6 +12,7 @@ tags:
   - present tense
   - how to conjugate
   - learn French
+keywords: vendre conjugation, french verb vendre, vendre present tense, french conjugation, learn french
 ---
 
 <div class="video-embed">

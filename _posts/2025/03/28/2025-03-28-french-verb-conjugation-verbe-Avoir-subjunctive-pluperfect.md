@@ -5,6 +5,7 @@ date: 2025-03-28
 image: assets/images/verbs/2025/03/avoir_subjunctive_pluperfect.webp
 categories: [French Conjugation]
 lang: fr
+keywords: avoir conjugation, french verb avoir, avoir subjunctive pluperfect, french conjugation, learn french
 ---
 
 Mastering the French verb **avoir** (to have) is a cornerstone of French language learning. In the present tense, its conjugations are as follows:

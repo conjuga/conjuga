@@ -5,6 +5,7 @@ date: 2025-03-29
 image: assets/images/verbs/2025/03/Fixer_participle_past_anterior.webp
 categories: [French Conjugation]
 lang: fr
+keywords: fixer conjugation, french verb fixer, fixer participle past anterior, french conjugation, learn french
 ---
 
 La conjugaison du verbe **fixer** au passé antérieur est une compétence essentielle pour ceux qui apprennent le français. Voici comment on le conjugue:

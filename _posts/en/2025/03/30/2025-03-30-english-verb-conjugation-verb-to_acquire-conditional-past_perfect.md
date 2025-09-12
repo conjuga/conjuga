@@ -1,12 +1,12 @@
 ---
 layout: post 
-title: "Verb To acquire: Conditional Past Perfect Conjugation Guide for Beginners"
+title: "Verb 'To acquire': Conditional Past Perfect Conjugation Guide for Beginners"
 date: 2025-03-30
 image: assets/images/verbs/en/2025/03/to_acquire_conditional_past_perfect.webp
-categories: [Conjugaison Anglais]
+categories: [English Conjugation]
 lang: en 
-description: "Découvrez comment conjuguer le verbe anglais 'to acquire' au conditionnel passé parfait. Ce guide complet en français est idéal pour les débutants qui souhaitent apprendre à utiliser 'to acquire' correctement avec des exemples, des expressions idiomatiques et des astuces pratiques."
-keywords: conjugaison to acquire, verbe anglais to acquire, apprendre l'anglais, conjugaison anglaise pour débutants, expressions avec to acquire, grammaire anglaise, verbe irrégulier to acquire, conjuguer to acquire en anglais, to acquire past tense, to acquire present perfect
+description: "Discover how to conjugate the English verb 'to acquire' in the conditional past perfect. This comprehensive guide is ideal for beginners who want to learn how to use 'to acquire' correctly with examples, idiomatic expressions, and practical tips."
+keywords: acquire conjugation, english verb to acquire, to acquire conditional past perfect, english conjugation, learn english
 ---
 
 Le verbe anglais irrégulier **to acquire** est couramment utilisé dans des contextes d'achat ou d'acquisition de compétences. Sa maîtrise est essentielle pour quiconque souhaite parler couramment l'anglais. Dans cet article, nous allons explorer sa conjugaison au conditionnel passé parfait, avec des exemples concrets, des expressions idiomatiques et des astuces pour apprendre efficacement.

@@ -5,6 +5,8 @@ date: 2025-03-29
 image: assets/images/verbs/es/2025/03/llegar_indicative_pluperfect.webp
 categories: [Conjugación Española]
 lang: es
+redirect_from:
+  - /spanishconjugation/2025/03/29/spanish-verb-conjugation-verbo-Llegar-indicative-pluperfect/
 keywords: llegar conjugation, spanish verb llegar, llegar indicative pluperfect, spanish conjugation, learn spanish
 ---
 

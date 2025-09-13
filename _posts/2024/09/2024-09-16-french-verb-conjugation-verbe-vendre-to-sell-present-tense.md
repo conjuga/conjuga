@@ -5,6 +5,8 @@ date: 2024-09-16
 image: assets/images/verbs/2024/09/16/verbe_vendre_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+redirect_from:
+  - /french conjugation/2024/09/16/french-verb-conjugation-verbe-vendre-to-sell-present-tense/
 tags:
   - French conjugation
   - verbe vendre

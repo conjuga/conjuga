@@ -5,6 +5,8 @@ date: 2024-09-10
 image: assets/images/verbs/2024/09/10/verbe_tenir_present_indicatif.png
 categories: [French Conjugation]
 lang: fr
+redirect_from:
+  - /frenchconjugation/2024/09/10/french-verb-conjugation-verbe-tenir-to-hold-present-tense/
 keywords: tenir conjugation, french verb tenir, tenir present tense, french conjugation, learn french
 ---
 

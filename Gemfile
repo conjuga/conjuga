@@ -26,4 +26,5 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2'
   gem 'tzinfo-data'
   gem 'tzinfo'
+  gem 'jekyll-redirect-from'
 end

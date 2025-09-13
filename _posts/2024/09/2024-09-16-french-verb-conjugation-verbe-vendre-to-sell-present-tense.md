@@ -17,11 +17,12 @@ tags:
   - learn French
 keywords: vendre conjugation, french verb vendre, vendre present tense, french conjugation, learn french
 ---
-
+<!-- Video Embed Section -->
+{% if page.video %}
 <div class="video-embed">
   <iframe width="100%" height="400" src="{{ page.video | escape }}" frameborder="0" allowfullscreen></iframe>
 </div>
-
+{% endif %}
 ---
 
 The verb **vendre** is one of the most common French -re verbs. Master its present tense conjugations and learn how to use it in everyday conversation.

@@ -5,6 +5,8 @@ date: 2025-09-13
 image: assets/images/verbs/es/2025/09/Llegar_indicative_pluperfect.webp
 categories: [Spanish Conjugation]
 lang: es 
+redirect_from:
+  - /spanish%2520conjugation/2025/03/29/spanish-verb-conjugation-verbo-Llegar-indicative-pluperfect/ 
 
 ---
 

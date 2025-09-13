@@ -5,6 +5,8 @@ date: 2025-09-13
 image: assets/images/verbs/2025/09/Dîner_conditional_past.webp
 categories: [French Conjugation]
 lang: fr
+redirect_from:
+  - /french%2520conjugation/2025/03/28/french-verb-conjugation-verbe-D%25C3%25AEner-conditional-past/
 description: "Learn how to conjugate the French verb 'dîner' in the conditional past tense. A comprehensive guide for beginners to improve their French language skills."
 keywords: "French verb dîner, French conditional past tense, dîner conjugation, beginner French grammar, learn French, dîner examples, French verbs for beginners, how to use dîner in French, essential French verbs, conjugation of French verbs, French language learning"
 

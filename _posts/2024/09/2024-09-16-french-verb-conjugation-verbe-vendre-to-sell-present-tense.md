@@ -7,6 +7,7 @@ categories: [French Conjugation]
 lang: fr
 redirect_from:
   - /french conjugation/2024/09/16/french-verb-conjugation-verbe-vendre-to-sell-present-tense/
+  - /french%2520conjugation/2024/09/16/french-verb-conjugation-verbe-vendre-to-sell-present-tense/
 tags:
   - French conjugation
   - verbe vendre

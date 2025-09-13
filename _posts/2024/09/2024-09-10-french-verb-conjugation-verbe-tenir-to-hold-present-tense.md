@@ -7,6 +7,7 @@ categories: [French Conjugation]
 lang: fr
 redirect_from:
   - /frenchconjugation/2024/09/10/french-verb-conjugation-verbe-tenir-to-hold-present-tense/
+  - /french%2520conjugation/2024/09/10/french-verb-conjugation-verbe-tenir-to-hold-present-tense/
 keywords: tenir conjugation, french verb tenir, tenir present tense, french conjugation, learn french
 ---
 

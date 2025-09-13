@@ -41,7 +41,7 @@ background: '{{site.baseurl}}/assets/images/bg-index.jpg'
 
 <!-- Featured English Posts -->
 <section class="row">
-  {% assign french_posts = site.posts | where:"lang", "en" %}
+  {% assign french_posts = site.posts | where:"lang", "fr" %}
   {% for post in french_posts %}
     {% if post.featured == true %}
       <div class="col-md-4 mb-5">
@@ -57,11 +57,13 @@ background: '{{site.baseurl}}/assets/images/bg-index.jpg'
   <div class="col-sm-8">
    <div class="row">
       {% for post in paginator.posts %}
-        {% unless post.featured == true %}
-          <div class="col-md-6 mb-5">
-            {% include postbox.html %}
-          </div>
-        {% endunless %}
+        {% if post.lang == 'fr' %}
+          {% unless post.featured == true %}
+            <div class="col-md-6 mb-5">
+              {% include postbox.html %}
+            </div>
+          {% endunless %}
+        {% endif %}
       {% endfor %}
     </div>
     <!-- Pagination -->

@@ -6,8 +6,6 @@ pagination:
   collection: posts
   sort_field: 'date'
   sort_reverse: true
-  filter:
-    lang: fr
 background: '{{site.baseurl}}/assets/images/bg-index.jpg'
 ---
 
@@ -58,8 +56,7 @@ background: '{{site.baseurl}}/assets/images/bg-index.jpg'
 <section class="row">
   <div class="col-sm-8">
    <div class="row">
-      {% assign french_posts = site.posts | where:"lang", "fr" %}
-      {% for post in french_posts %}
+      {% for post in paginator.posts %}
         {% unless post.featured == true %}
           <div class="col-md-6 mb-5">
             {% include postbox.html %}

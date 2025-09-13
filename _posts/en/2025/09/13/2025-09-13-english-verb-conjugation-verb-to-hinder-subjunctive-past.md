@@ -5,6 +5,9 @@ date: 2025-09-13
 image: assets/images/verbs/en/2025/09/to_hinder_subjunctive_past.webp
 categories: [Conjugaison Anglais]
 lang: en 
+redirect_from:
+  - /conjugaisonanglais/2025/03/29/english-verb-conjugation-verb-To-hinder-subjunctive-past_-_alternative_form/
+  - /conjugaison%2520anglais/2025/03/29/english-verb-conjugation-verb-To-hinder-subjunctive-past_-_alternative_form/
 description: "Découvrez comment conjuguer le verbe anglais 'to hinder' au subjonctif passé. Ce guide complet en français est idéal pour les débutants qui souhaitent apprendre à utiliser 'to hinder' correctement avec des exemples, des expressions idiomatiques et des astuces pratiques."
 keywords: conjugaison to hinder, verbe anglais to hinder, apprendre l'anglais, conjugaison anglaise pour débutants, expressions avec to hinder, grammaire anglaise, verbe irrégulier to hinder, conjuguer to hinder en anglais, to hinder past subjunctive, to hinder subjunctive perfect
 ---

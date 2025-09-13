@@ -4,7 +4,7 @@ title: "Verbe Transparaître: Indicative Past Perfect Conjugation Guide for Begi
 date: 2025-09-13
 image: assets/images/verbs/2025/09/Transparaître_indicative_past_perfect.webp
 categories: [French Conjugation]
-lang: en
+lang: fr
 description: "Master the conjugation of the French verb 'transparaître' in the indicative past perfect tense. A comprehensive guide for beginners learning French."
 keywords: "French verb transparaître, indicative past perfect tense, transparaître conjugation, French grammar for beginners, learn French, French verbs for beginners, essential French verbs"
 

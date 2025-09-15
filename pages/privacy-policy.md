@@ -3,6 +3,7 @@ layout: page
 title: Privacy Policy
 permalink: /privacy-policy/
 comments: false
+keywords: privacy policy, data protection, information collection, user rights
 ---
 
 madeny Inc (or, “madeny”) issues this Privacy Policy to inform you of our procedures and policies regarding the collection, disclosure, and use of personal information madeny receives or collects from users of our applications and/or website. The term “Services”, as used in this Privacy Policy, references both the madeny website (the “Site”) and all madeny applications, games and any other products or services offered by madeny (the “Application(s)”). This Privacy Policy applies to information that you provide to us (or permit third party sites to provide us) or that we collect through the Services. This Privacy Policy will be updated at dates in the future to be determined by madeny. We will notify you of any material changes by posting the new Privacy Policy on the Services. madeny recommends that you consult this policy periodically for any changes. By using our Services you are consenting to our Processing of your information as described in this Privacy Policy now and as revised in the future by madeny. “Processing” means using cookies on a computer or using, reviewing, or otherwise interacting with information in any way, including, but not limited to, storing, deleting, collecting, using, combining and disclosing information and transferring it to US and other governments. If you do not agree to the terms of this Privacy Policy, please do not use the Services.

@@ -11,7 +11,6 @@ keywords: acquire conjugation, english verb to acquire, to acquire conditional p
 
 Le verbe anglais irrégulier **to acquire** est couramment utilisé dans des contextes d'achat ou d'acquisition de compétences. Sa maîtrise est essentielle pour quiconque souhaite parler couramment l'anglais. Dans cet article, nous allons explorer sa conjugaison au conditionnel passé parfait, avec des exemples concrets, des expressions idiomatiques et des astuces pour apprendre efficacement.
 
-![To Acquire Conjugation](/assets/images/verbs/2025/03/Acquire_conditional_past_perfect.webp)
 
 ---
 

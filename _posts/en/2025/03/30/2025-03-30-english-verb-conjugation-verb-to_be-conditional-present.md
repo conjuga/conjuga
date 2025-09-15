@@ -11,7 +11,6 @@ keywords: to be conjugation, english verb to be, to be conditional present, engl
 
 Le verbe anglais **to be** est probablement le verbe le plus utilisé en anglais. Il est essentiel pour quiconque souhaite parler anglais couramment. Dans cet article, nous allons explorer sa conjugaison au conditionnel présent, des exemples concrets, des expressions idiomatiques populaires, ainsi que des astuces pour l’apprendre efficacement.
 
-![To Be Conjugation](/assets/images/verbs/2025/03/To be_conditional_present.webp)
 
 ---
 

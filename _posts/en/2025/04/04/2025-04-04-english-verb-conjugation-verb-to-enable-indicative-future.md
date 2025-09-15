@@ -11,7 +11,6 @@ keywords: enable conjugation, english verb to enable, to enable future indicativ
 
 Le verbe anglais **to enable** est un verbe régulier souvent utilisé pour parler de l'activation ou de la facilitation de quelque chose. Dans cet article, nous allons vous montrer comment conjuguer ce verbe au futur, avec des exemples concrets, des expressions idiomatiques, et des conseils pour bien l'utiliser.
 
-![To Enable Conjugation](/assets/images/verbs/2025/04/to_enable_indicative_future.webp)
 
 ---
 

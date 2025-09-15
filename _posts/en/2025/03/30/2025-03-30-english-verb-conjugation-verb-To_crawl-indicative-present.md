@@ -11,7 +11,6 @@ keywords: crawl conjugation, english verb to crawl, to crawl indicative present,
 
 Le verbe anglais **to crawl** est couramment utilisé pour décrire le mouvement lent et à quatre pattes, typique des bébés ou des insectes. Dans ce guide, nous allons vous montrer comment conjuguer **to crawl** au présent, avec des exemples concrets, des expressions idiomatiques et des astuces pour l'apprendre efficacement.
 
-![To Crawl Conjugation](/assets/images/verbs/2025/03/Crawl_conjugation.webp)
 
 ---
 

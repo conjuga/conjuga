@@ -14,7 +14,6 @@ keywords: conjugaison to hinder, verbe anglais to hinder, apprendre l'anglais, c
 
 Le verbe anglais **to hinder** est souvent utilisé dans un contexte de blocage ou d'entrave. Sa maîtrise est essentielle pour quiconque souhaite parler anglais couramment. Dans cet article, nous allons explorer sa conjugaison au subjonctif passé, des exemples concrets, ainsi que des astuces pour l’apprendre efficacement.
 
-![To Hinder Conjugation](/assets/images/verbs/2025/09/to_hinder_subjunctive_past.webp)
 
 ---
 

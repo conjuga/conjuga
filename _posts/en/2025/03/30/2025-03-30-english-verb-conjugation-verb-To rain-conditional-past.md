@@ -11,7 +11,6 @@ keywords: rain conjugation, english verb to rain, to rain conditional past, engl
 
 Le verbe anglais **to rain** est un verbe couramment utilisé pour parler du temps. Dans cet article, nous allons explorer comment il se conjugue au passé du conditionnel, avec des exemples concrets et des astuces pour l'apprendre efficacement.
 
-![To Rain Conjugation](/assets/images/verbs/2025/03/To_rain_conditional_past.webp)
 
 ---
 ## Conjugaison du verbe "to rain" au passé du conditionnel

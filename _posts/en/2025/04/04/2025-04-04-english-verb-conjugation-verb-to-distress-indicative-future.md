@@ -11,7 +11,6 @@ keywords: distress conjugation, english verb to distress, to distress future ind
 
 Le verbe anglais **to distress** est un verbe régulier qui signifie "causer de la détresse". Dans ce guide, nous allons explorer comment il est conjugué au futur indicatif, avec des exemples concrets et des conseils pour l'apprendre efficacement.
 
-![To Distress Conjugation](/assets/images/verbs/en/2025/04/to_distress_indicative_future.webp)
 
 ---
 

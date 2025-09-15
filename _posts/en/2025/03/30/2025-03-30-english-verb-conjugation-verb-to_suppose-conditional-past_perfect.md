@@ -11,7 +11,6 @@ keywords: suppose conjugation, english verb to suppose, to suppose past perfect 
 
 Le verbe anglais **to suppose** est un verbe couramment utilisé dans la langue anglaise. Il est utilisé pour exprimer une idée ou une hypothèse. Dans cet article, nous allons explorer comment conjuguer ce verbe au passé parfait conditionnel, avec des exemples concrets et des astuces pour l'apprendre efficacement.
 
-![To Suppose Conjugation](/assets/images/verbs/2025/03/To_suppose_conditional_past_perfect.webp)
 
 ---
 

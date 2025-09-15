@@ -10,7 +10,6 @@ keywords: saw conjugation, english verb to saw, saw conditional past perfect, en
 
 Le verbe anglais **to saw** est un verbe irrégulier couramment utilisé dans les conversations et les écrits en anglais. Sa maîtrise est cruciale pour ceux qui souhaitent parler couramment la langue. Dans cet article, nous allons explorer sa conjugaison au plus-que-parfait conditionnel, des exemples d'utilisation, des expressions idiomatiques, ainsi que des astuces pour l'apprendre efficacement.
 
-![To Saw Conjugation](/assets/images/verbs/2025/04/to_saw_conditional_past_perfect.webp)
 
 ---
 

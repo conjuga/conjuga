@@ -11,7 +11,6 @@ keywords: stipulate conjugation, english verb to stipulate, to stipulate indicat
 
 Le verbe anglais **to stipulate** est un verbe essentiel dans le domaine du droit et des contrats. C'est un verbe régulier, ce qui signifie que sa conjugaison suit les règles standard de la langue anglaise. Dans cet article, nous allons explorer sa conjugaison au présent indicatif, des exemples concrets, ainsi que des astuces pour l’apprendre efficacement.
 
-![To Stipulate Conjugation](/assets/images/verbs/2025/03/Stipulate_conjugation.webp)
 
 ---
 

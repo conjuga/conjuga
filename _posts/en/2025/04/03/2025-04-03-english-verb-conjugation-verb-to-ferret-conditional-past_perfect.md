@@ -11,7 +11,6 @@ keywords: conjugation to ferret, English verb to ferret, learn English, English 
 
 Le verbe anglais **to ferret** peut être un peu difficile à maîtriser pour les francophones, mais une fois que vous avez compris son utilisation, il peut être très utile. Dans cet article, nous allons explorer comment conjuguer ce verbe au passé parfait conditionnel, avec des exemples, des expressions idiomatiques et des astuces pour l’apprendre efficacement.
 
-![To Ferret Conjugation](/assets/images/verbs/2025/04/to_ferret_conditional_past_perfect.webp)
 
 ---
 

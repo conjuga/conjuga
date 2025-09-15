@@ -11,7 +11,6 @@ keywords: annihilate conjugation, english verb to annihilate, to annihilate cond
 
 Le verbe anglais **to annihilate** est un verbe irrégulier qui signifie "annihiler", "détruire complètement". Sa maîtrise est essentielle pour quiconque souhaite parler anglais couramment. Dans cet article, nous allons explorer sa conjugaison au passé conditionnel, des exemples concrets, des expressions idiomatiques populaires, ainsi que des astuces pour l’apprendre efficacement.
 
-![To Annihilate Conjugation](/assets/images/verbs/2025/03/To_annihilate_conditional_past.webp)
 
 ---
 

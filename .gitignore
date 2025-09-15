@@ -2,3 +2,4 @@
 .DS_Store
 # Ignore Synology system files
 @eaDir
+_site/

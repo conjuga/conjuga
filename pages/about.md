@@ -1,11 +1,18 @@
 ---
 layout: page
-title: "Learn French Conjugation Effectively with Conjuga App"
+title: "Conjuga App Features"
 permalink: "/app/"
 image: assets/images/conjuga-ios-app.png
 ---
 
 Welcome to **Conjuga**, the French conjugation app designed to help you master the art of French verb conjugations. Whether you're a beginner or an advanced learner, Conjuga provides you with the tools and resources to enhance your French language skills efficiently.
+
+# 100% English Translation
+# Native Speaker Audio
+# No subscriptions!
+# Search in English or French
+# Interactive Quizzes
+# Complete Conjugation Tables
 
 <!-- ![Welcome to Conjuga](assets/images/welcome.png) -->
 
@@ -27,7 +34,7 @@ Test your knowledge of French verb conjugations with interactive practice exerci
 <!-- ![Practice Exercises](assets/images/practice.png) -->
 
 ### Pronunciation Guides for French Verbs
-Improve your pronunciation of French verbs with audio guides for each conjugated form. Listen to native speakers and practice until you perfect your French accent.
+Improve your pronunciation of French verbs with audio guides for each conjugated form. Listen to native speakers and practice until you perfect your accent.
 
 <!-- ![Pronunciation Guides](assets/images/pronunciation.png) -->
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Mastering Common Spanish Verbs: Essential Conjugations and Usage Tips for Beginners and Language Learners"
 date: 2025-04-05
-image: assets/images/verbs/es/2025/05/Common_Spanish_Verbs.png
+image: assets/images/verbs/es/2025/05/Common_Spanish_Verbs.webp
 categories: [Conjugación en español]
 lang: es
 keywords: common spanish verbs, spanish verbs, learn spanish, spanish conjugation, spanish verb conjugation

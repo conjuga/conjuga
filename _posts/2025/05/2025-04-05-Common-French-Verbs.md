@@ -2,7 +2,7 @@
 layout: post
 title: "Learn Common French Verbs with Ease: Essential Conjugations, Practical Examples, and Tips to Boost Your French Speaking Skills"
 date: 2025-04-05
-image: assets/images/verbs/2025/05/Common_French_Verbs.png
+image: assets/images/verbs/2025/05/Common_French_Verbs.webp
 categories: [French Conjugation]
 lang: fr 
 description: "Discover the past perfect conjugation of the French verb 'bouleverser.' A useful guide for beginners striving to master French grammar."

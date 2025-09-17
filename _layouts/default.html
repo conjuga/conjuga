@@ -24,7 +24,7 @@
 <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
 
 {% seo title=false %}
-{% if page.url == "/" or page.url == "/en/" or page.url == "/es/" %}
+{% if page.url == "/" %}
 <title>{{ site.title }}</title>
 {% elsif page.date %}
 <title>{{ page.title | escape }} | Conjuga</title>

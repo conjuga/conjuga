@@ -1,39 +1,45 @@
 <div class="sidebar sticky-top">
+
+  <!-- App Ad -->
+  <div class="sidebar-section app-ad-section">
+    <a href="https://conjuga.app.link/VlkyCxUWOKb" class="app-ad-link">
+      <h3><span>Get the Conjuga App Now!</span></h3>
+      <img src="{{site.baseurl}}/assets/images/1080x1080.png" alt="Download the Conjuga App" width="100%" height="auto" class="rounded">
+    </a>
+  </div>
+
+  <!-- Categories -->
+  <div class="sidebar-section">
+    <h5><span>Categories</span></h5>
+    <p><a href="{{ site.baseurl }}/categories/">Explore all post categories.</a></p>
+  </div>
+
+  <!-- Latest Posts -->
+  <div class="sidebar-section">
+    <h5><span>Latest Posts</span></h5>
+    <ul class="list-unstyled">
+      {% for post in site.posts limit:3 %}
+        <li class="d-flex mb-3">
+          {% if post.image %}
+            <div class="flex-shrink-0">
+              <a href="{{ post.url | absolute_url }}">
+                <img src="{{ site.baseurl }}/{{ post.image }}" class="rounded" alt="{{ post.title }}" style="width: 64px; height: 64px; object-fit: cover;">
+              </a>
+            </div>
+          {% endif %}
+          <div class="flex-grow-1 ms-3">
+            <h6 class="mt-0 mb-1"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h6>
+            <small class="text-muted">{{ post.date | date: "%b %-d, %Y" }}</small>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <!-- Newsletter -->
   <div class="sidebar-section">
     <h2><span>Exclusive Deals Await <br> Join Now!</span></h2>
     {% include newsletter.html %}
   </div>
 
-  <div class="sidebar-section">
-    <h3><span>Get the Conjuga App Now!</span></h3>
-    <div class="slider">
-      <div class="slides">
-        <div class="slide">
-          <a href="https://conjuga.app.link/VlkyCxUWOKb">
-            <img src="{{site.baseurl}}/assets/images/ad.webp" alt="conjuga_screenshot_a" width="100%" height="auto">
-          </a>
-        </div>
-        <div class="slide">
-          <a href="https://conjuga.app.link/VlkyCxUWOKb">
-            <img src="{{site.baseurl}}/assets/images/ad2.webp" alt="conjuga_screenshot_b" width="100%" height="auto">
-          </a>
-        </div>
-        <div class="slide">
-          <a href="https://conjuga.app.link/VlkyCxUWOKb">
-            <img src="{{site.baseurl}}/assets/images/ad3.webp" alt="conjuga_screenshot_c" width="100%" height="auto">
-          </a>
-        </div>
-        <div class="slide">
-          <a href="https://conjuga.app.link/VlkyCxUWOKb">
-            <img src="{{site.baseurl}}/assets/images/ad4.webp" alt="conjuga_screenshot_d" width="100%" height="auto">
-          </a>
-        </div>
-        <div class="slide">
-          <a href="https://conjuga.app.link/VlkyCxUWOKb">
-            <img src="{{site.baseurl}}/assets/images/ad5.webp" alt="conjuga_screenshot_e" width="100%" height="auto">
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>

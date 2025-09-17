@@ -130,4 +130,49 @@ body {}
     text-align: center;
 }
 
+/*
+Sidebar Latest Posts
+================================================== */
+.sidebar .sidebar-section .list-unstyled .media-body h6 {
+    font-size: 0.9rem;
+    font-weight: 600;
+}
 
+.sidebar .sidebar-section .list-unstyled .media-body h6 a {
+    color: #333;
+    text-decoration: none;
+}
+
+.sidebar .sidebar-section .list-unstyled .media-body h6 a:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.sidebar .sidebar-section .list-unstyled .media-body small {
+    font-size: 0.8rem;
+}
+
+.sidebar .sidebar-section .list-unstyled .flex-shrink-0 img {
+    transition: transform 0.2s ease-in-out;
+}
+
+.sidebar .sidebar-section .list-unstyled .flex-shrink-0 img:hover {
+    transform: scale(1.05);
+}
+
+/*
+Sidebar App Ad
+================================================== */
+.sidebar .app-ad-section {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.app-ad-link,
+.app-ad-link:hover {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}

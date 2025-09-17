@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /pinterest-d2b5d.html
-Disallow: /mfczdtf7yp3w7vr33n9zgcfpu3ss76z5.txt
 
 Sitemap: https://www.conjuga.app/sitemap.xml

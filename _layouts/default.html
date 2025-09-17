@@ -23,7 +23,14 @@
 
 <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
 
-{% seo %}
+{% seo title=false %}
+{% if page.url == "/" or page.url == "/en/" or page.url == "/es/" %}
+<title>{{ site.title }}</title>
+{% elsif page.date %}
+<title>{{ page.title | escape }} | Conjuga</title>
+{% else %}
+<title>{{ page.title | escape }}</title>
+{% endif %}
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/slide.css" rel="stylesheet">

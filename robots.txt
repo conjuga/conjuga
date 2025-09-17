@@ -1,9 +1,11 @@
 User-agent: *
 Disallow: /pinterest-d2b5d.html
 Allow: /mfczdtf7yp3w7vr33n9zgcfpu3ss76z5.txt
+Allow: /sffhn7f5cvumtw4q1u7xstk4r1c5j9xn.txt
 
 
 AhrefsBot:
 Allow: /mfczdtf7yp3w7vr33n9zgcfpu3ss76z5.txt
+Allow: /sffhn7f5cvumtw4q1u7xstk4r1c5j9xn.txt
 
 Sitemap: https://www.conjuga.app/sitemap.xml

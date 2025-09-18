@@ -11,7 +11,6 @@ keywords: conjugaison to understand, verbe anglais to understand, apprendre l'an
 
 Le verbe anglais **to understand** est un verbe irrégulier couramment utilisé. La maîtrise de sa conjugaison est essentielle pour quiconque souhaite améliorer son anglais. Dans cet article, nous allons explorer sa conjugaison dans le subjonctif plus-que-parfait, des exemples concrets d'utilisation, ainsi que quelques astuces pour l’apprendre efficacement.
 
-![To Understand Conjugation](/assets/images/verbs/2025/09/to_understand_subjunctive_pluperfect.webp)
 
 ---
 

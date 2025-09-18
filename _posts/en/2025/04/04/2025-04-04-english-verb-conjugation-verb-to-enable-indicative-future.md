@@ -3,10 +3,8 @@ layout: post
 title: "Verb 'to enable': Indicative Future Conjugation Guide for Beginners"
 date: 2025-04-04
 image: assets/images/verbs/en/2025/04/to_enable_indicative_future.webp
-categories: [English Conjugation]
+categories: [Conjugaison Anglais]
 lang: en
-redirect_from:
-  - /conjugaison anglais/2025/04/04/english-verb-conjugation-verb-to-enable-indicative-future/
 description: "Discover how to conjugate the English verb 'to enable' in the indicative future. This comprehensive guide is ideal for beginners who want to learn how to use 'to enable' correctly with examples, idiomatic expressions, and practical tips."
 keywords: enable conjugation, english verb to enable, to enable future indicative, english conjugation, learn english
 ---

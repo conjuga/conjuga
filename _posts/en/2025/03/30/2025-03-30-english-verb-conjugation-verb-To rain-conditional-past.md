@@ -3,7 +3,7 @@ layout: post
 title: "Verb 'To Rain': Past Conditional Conjugation Guide for Beginners"
 date: 2025-03-30
 image: assets/images/verbs/en/2025/03/to_rain_conditional_past.webp
-categories: [English Conjugation]
+categories: [Conjugaison Anglais]
 lang: en
 description: "Discover how to conjugate the English verb 'to rain' in the past conditional. This comprehensive guide is ideal for beginners who want to learn how to use 'to rain' correctly with examples and practical tips."
 keywords: rain conjugation, english verb to rain, to rain conditional past, english conjugation, learn english

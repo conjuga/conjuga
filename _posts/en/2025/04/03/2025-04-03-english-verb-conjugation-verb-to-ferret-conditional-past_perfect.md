@@ -3,7 +3,7 @@ layout: post
 title: "Verb 'To Ferret': Conditional Past Perfect Conjugation Guide for Beginners"
 date: 2025-04-03
 image: assets/images/verbs/en/2025/04/to_ferret_conditional_past_perfect.webp
-categories: [English Conjugation]
+categories: [Conjugaison Anglais]
 lang: en 
 description: "Learn how to conjugate the irregular English verb 'to ferret' in the Conditional Past Perfect. This comprehensive guide in French is perfect for beginners who want to learn to use 'to ferret' correctly with examples, idiomatic expressions, and practical tips."
 keywords: conjugation to ferret, English verb to ferret, learn English, English conjugation for beginners, expressions with to ferret, English grammar, irregular verb to ferret, conjugate to ferret in English, to ferret past tense, to ferret present perfect

@@ -5,6 +5,8 @@ date: 2025-04-04
 image: assets/images/verbs/en/2025/04/to_distress_indicative_future.webp
 categories: [English Conjugation]
 lang: en 
+redirect_from:
+  - /conjugaison anglais/2025/04/04/english-verb-conjugation-verb-to-distress-indicative-future/ 
 description: "Learn how to conjugate the verb 'to distress' in the future indicative in English. This guide is perfect for beginners who want to use 'to distress' correctly, with examples, common expressions, and practical tips."
 keywords: distress conjugation, english verb to distress, to distress future indicative, english conjugation, learn english
 ---

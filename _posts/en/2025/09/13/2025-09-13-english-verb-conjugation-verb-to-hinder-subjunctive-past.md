@@ -3,7 +3,7 @@ layout: post
 title: "Verbe To hinder: Guide de Conjugaison du Subjonctif Passé pour les Débutants"
 date: 2025-09-13
 image: assets/images/verbs/en/2025/09/to_hinder_subjunctive_past.webp
-categories: [Conjugaison Anglais]
+categories: [English Conjugation]
 lang: en 
 redirect_from:
   - /conjugaisonanglais/2025/03/29/english-verb-conjugation-verb-To-hinder-subjunctive-past_-_alternative_form/

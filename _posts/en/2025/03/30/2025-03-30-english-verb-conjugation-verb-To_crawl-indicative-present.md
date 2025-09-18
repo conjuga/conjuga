@@ -5,6 +5,8 @@ date: 2025-03-30
 image: assets/images/verbs/en/2025/03/to_crawl_indicative_present.webp
 categories: [English Conjugation]
 lang: en
+redirect_from:
+  - /conjugaison anglais/2025/03/30/english-verb-conjugation-verb-To_crawl-indicative-present/
 description: "Discover how to conjugate the English verb 'to crawl' in the present indicative. This comprehensive guide is ideal for beginners who want to learn how to use 'to crawl' correctly with examples, idiomatic expressions, and practical tips."
 keywords: crawl conjugation, english verb to crawl, to crawl indicative present, english conjugation, learn english
 ---

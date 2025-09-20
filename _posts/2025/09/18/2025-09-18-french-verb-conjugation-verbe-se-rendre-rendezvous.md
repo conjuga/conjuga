@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Rendezvous: Mastering the Verb 'Se Rendre' and Its Famous French Expression"
+seo_title: "French Verb Transparaître – Past Perfect Conjugation Guide"
+description: "Discover how the French verb se rendre shaped the word “rendezvous.” Learn its conjugation and meaning with clear examples."
 date: 2025-09-18
 image: assets/images/verbs/2025/09/Se_rendre_conjugation.webp
 # video: "https://www.youtube.com/embed/your_video_id"

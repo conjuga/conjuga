@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Conjuga App Features"
+title: "Conjuga"
 permalink: "/app/"
 image: assets/images/conjuga-ios-app.png
 ---

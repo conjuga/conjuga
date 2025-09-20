@@ -1,5 +1,5 @@
 title: "French Conjugation: Master French Verbs | Conjuga"
-description: "Learn English verbs the right way. Get precise translations, perfect audio pronunciation, and master conjugation with Conjuga. Start your journey to fluency today!"
+description: "Conjuga helps you practice French conjugation step by step. With audio, English translations, daily drills"
 keywords: "Conjuga, French Conjugation, French Verbs, learn French, French language, verb conjugation app, master French"
 email: contact@conjuga.app
 timezone: UTC
@@ -35,7 +35,7 @@ authors:
     form_endpoint: https://formspree.io/f/mdknkdew
     web: https://conjuga.app
     twitter: https://twitter.com/conjapp
-    description: "Learn French verb conjugations effortlessly! Daily updates, examples, and an app to improve your skills fast!"
+    # description: "Learn French verb conjugations effortlessly! Daily updates, examples, and an app to improve your skills fast!"
 
 # Social
 social:

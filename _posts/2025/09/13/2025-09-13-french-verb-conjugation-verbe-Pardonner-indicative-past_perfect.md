@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Verbe Pardonner: A Beginner’s Guide to Conjugating in the Indicative Past Perfect"
+title: "French Verb Pardonner: How to Conjugate in the Indicative Past Perfect"
 date: 2025-09-13
 image: assets/images/verbs/2025/09/Pardonner_indicative_past_perfect.webp
 categories: [French Conjugation]
 lang: fr
-description: "In this guide, we will look at how to conjugate the French verb 'pardonner' in the indicative past perfect tense. This is an essential skill for any French learner."
+description: "Learn how to conjugate the French verb pardonner in the indicative past perfect. An essential guide for beginners improving their French skills."
 keywords: "French verb pardonner, French past perfect tense, pardonner conjugation, beginner French grammar, learn French, pardonner examples, French verbs for beginners, how to use pardonner in French, essential French verbs"
 
 ---

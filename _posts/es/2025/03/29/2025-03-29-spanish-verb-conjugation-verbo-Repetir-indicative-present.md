@@ -3,7 +3,7 @@ layout: post
 title: "Verbo Repetir: Guía de Conjugación en Presente Indicativo para Principiantes"
 date: 2025-03-29
 image: assets/images/verbs/es/2025/03/repetir_indicative_present.webp
-categories: [Conjugación Española]
+categories: [Conjugación en español]
 lang: es
 keywords: repetir conjugation, spanish verb repetir, repetir indicative present, spanish conjugation, learn spanish
 ---

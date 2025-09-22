@@ -3,7 +3,7 @@ layout: post
 title: "Verbo Hablar: Guía de Conjugación en Imperfecto Indicativo para Principiantes"
 date: 2025-03-29
 image: assets/images/verbs/es/2025/03/hablar_indicative_imperfect.webp
-categories: [Conjugación Española]
+categories: [Conjugación en Español]
 lang: es
 keywords: hablar conjugation, spanish verb hablar, hablar indicative imperfect, spanish conjugation, learn spanish
 ---

@@ -3,29 +3,22 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<!-- <meta name="apple-itunes-app" content="app-id=1469234408, app-argument=conjuga"> -->
-<!-- {% if page.url == "/" %}
-  <meta name="apple-itunes-app" content="app-id=1469234408, app-argument=conjuga://id1">
-{% elsif page.url == "/en/" %}
-  <meta name="apple-itunes-app" content="app-id=1543583013, app-argument=conjuga://id2">
-{% elsif page.url == "/es/" %}
-  <meta name="apple-itunes-app" content="app-id=1590682612, app-argument=conjuga://id3">
-{% elsif page.lang == "fr" %}
-  <meta name="apple-itunes-app" content="app-id=1469234408, app-argument=conjuga">
-{% elsif page.lang == "en" %}
-  <meta name="apple-itunes-app" content="app-id=1543583013, app-argument=conjuga">
-{% elsif page.lang == "es" %}
-  <meta name="apple-itunes-app" content="app-id=1590682612, app-argument=conjuga">
-{% endif %} -->
 
-{% if page.lang == "fr" %}
-  <meta name="apple-itunes-app" content="app-id=1469234408, app-argument=conjuga://id1">
-{% elsif page.lang == "en" %}
-  <meta name="apple-itunes-app" content="app-id=1543583013, app-argument=conjuga://id2">
-{% elsif page.lang == "es" %}
-  <meta name="apple-itunes-app" content="app-id=1590682612, app-argument=conjuga://id3">
+{% if page.url == "/" %}
+  <!-- Main homepage (English speakers) -->
+  <meta name="apple-itunes-app" content="app-id=1469234408">
+
+{% elsif page.url contains "/en/" %}
+  <!-- French content -->
+  <meta name="apple-itunes-app" content="app-id=1543583013">
+
+{% elsif page.url contains "/es/" %}
+  <!-- Spanish section (still English speakers) -->
+  <meta name="apple-itunes-app" content="app-id=1590682612">
+
 {% else %}
-  <meta name="apple-itunes-app" content="app-id=1469234408, app-argument=conjuga">
+  <!-- Fallback (default French) -->
+  <meta name="apple-itunes-app" content="app-id=1469234408">
 {% endif %}
 
 

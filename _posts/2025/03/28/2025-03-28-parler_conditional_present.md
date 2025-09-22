@@ -38,6 +38,6 @@ Understanding the verb **parler** in the conditional present tense is key to exp
 
 ---
 
-Improve your French language skills with our [French Conjugation App]({{site.appStore.url}}). It offers more verb practices and helps enhance your understanding of French grammar.
+Improve your French language skills with our [Conjuga]({{site.appStore.url}}). It offers more verb practices and helps enhance your understanding of French grammar.
 
 Stay connected for more French verb conjugations and boost your language learning journey!

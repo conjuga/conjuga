@@ -30,7 +30,7 @@ Comprendre le verbe **fixer** est essentiel pour construire de nombreuses phrase
 
 ---
 
-Améliorez votre expérience d'apprentissage du français avec notre [Application de Conjugaison Française]({{site.appStore.url}}). Pratiquez plus de verbes et améliorez vos compétences en déplacement!
+Améliorez votre expérience d'apprentissage du français avec notre [Conjuga]({{site.appStore.url}}). Pratiquez plus de verbes et améliorez vos compétences en déplacement!
 
 Restez à l'écoute pour plus de conjugaisons de verbes français pour améliorer votre voyage d'apprentissage des langues!
 

@@ -36,7 +36,7 @@ Comprendre **endormir** est essentiel pour construire de nombreuses phrases en f
 
 ---
 
-Améliorez votre expérience d'apprentissage du français avec notre [Application de Conjugaison Française]({{site.appStore.url}}). Pratiquez davantage de verbes et améliorez vos compétences en déplacement !
+Améliorez votre expérience d'apprentissage du français avec notre [Conjuga]({{site.appStore.url}}). Pratiquez davantage de verbes et améliorez vos compétences en déplacement !
 
 Restez à l'écoute pour plus de conjugaisons de verbes français pour améliorer votre apprentissage des langues !
 

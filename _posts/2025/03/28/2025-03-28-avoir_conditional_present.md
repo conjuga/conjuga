@@ -39,7 +39,7 @@ Understanding the conjugation of **avoir** in different tenses, particularly the
 
 ---
 
-To help you practice and get more comfortable with French conjugation, download our [French Conjugation App]({{site.appStore.url}}). It's a great tool to have in your French learning toolkit!
+To help you practice and get more comfortable with French conjugation, download our [Conjuga]({{site.appStore.url}}). It's a great tool to have in your French learning toolkit!
 
 Stay tuned for more guides on French verb conjugations to enhance your language learning journey!
 

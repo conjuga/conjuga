@@ -30,7 +30,7 @@ The verb **avoir** is critical for the formation of many common French expressio
 
 ---
 
-To continue refining your French language skills, try our [French Conjugation App]({{site.appStore.url}}). With it, you can practice conjugating a plethora of verbs anytime, anywhere.
+To continue refining your French language skills, try our [Conjuga]({{site.appStore.url}}). With it, you can practice conjugating a plethora of verbs anytime, anywhere.
 
 Stay tuned for further posts on French verb conjugations to support your language learning journey!
 

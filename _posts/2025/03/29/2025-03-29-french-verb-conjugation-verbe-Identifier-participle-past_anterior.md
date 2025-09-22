@@ -4,7 +4,7 @@ title: "How to Conjugate the French Verb Identifier in the Passé Antérieur (Be
 date: 2025-03-29
 image: assets/images/verbs/2025/03/Identifier_participle_past_anterior.webp
 categories: [Conjugaison Française]
-lang: en
+lang: fr
 description: "Learn how to conjugate the French verb Identifier in the passé antérieur. Step-by-step explanations, examples with English translations, and tips for mastering French conjugation."
 ---
 
@@ -41,7 +41,7 @@ The **passé antérieur** is a **compound tense**, which means it is made up of 
 For **identifier**, the auxiliary verb is **avoir**.  
 
 So the structure is:  
-➡️ *avoir (in passé simple) + identifié*  
+➡ *avoir (in passé simple) + identifié*  
 
 ---
 
@@ -56,7 +56,7 @@ Here is the complete conjugation:
 - **Vous eûtes identifié** – You (formal/plural) had identified  
 - **Ils/Elles eurent identifié** – They had identified  
 
-👉 Notice that *identifier* is regular: the past participle is always **identifié**.
+Notice that *identifier* is regular: the past participle is always **identifié**.
 
 ---
 
@@ -99,7 +99,7 @@ It usually appears after words like:
 - *quand* (when)  
 - *aussitôt que* (as soon as)  
 
-👉 In spoken French, people usually prefer the **plus-que-parfait** (past perfect), which sounds more natural in conversation.  
+In spoken French, people usually prefer the **plus-que-parfait** (past perfect), which sounds more natural in conversation.  
 
 Example comparison:  
 - **Passé antérieur (literary):** Dès que j’eus identifié le problème, je partis.  
@@ -139,7 +139,7 @@ This way, you build patterns in your memory and make conjugation easier.
 
 ## Boost Your French Conjugation Skills
 
-Want to go further? Download our [French Conjugation App]({{site.appStore.url}}) 📱  
+Want to go further? Download our [Conjuga]({{site.appStore.url}})  
 
 - Practice hundreds of verbs, including rare tenses like the **passé antérieur**  
 - Listen to audio pronunciation for each form  

@@ -37,6 +37,6 @@ Understanding how to properly conjugate 'Attenter' in the Subjunctive Past Alter
 
 ---
 
-Want to learn more? Enhance your French language journey with our [French Conjugation App]({{site.appStore.url}}). Practice conjugating more verbs and improve your skills on the go!
+Want to learn more? Enhance your French language journey with our [Conjuga]({{site.appStore.url}}). Practice conjugating more verbs and improve your skills on the go!
 
 Stay tuned for more French verb conjugation guides!

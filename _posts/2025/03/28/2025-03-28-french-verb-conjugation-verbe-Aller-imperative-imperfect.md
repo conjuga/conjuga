@@ -44,6 +44,6 @@ Mastering the verb **aller** enables you to articulate a range of ideas and acti
 
 ---
 
-Enhance your French language skills with our [French Conjugation App]({{site.appStore.url}}). Practice more verbs and conjugation tenses, and improve your French fluency on the go!
+Enhance your French language skills with our [Conjuga]({{site.appStore.url}}). Practice more verbs and conjugation tenses, and improve your French fluency on the go!
 
 Stay tuned for more in-depth guides on French verb conjugations to support your language learning journey!

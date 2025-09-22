@@ -42,6 +42,6 @@ Mastering the conjugation of **aboyer** in the past subjunctive will help you ex
 
 ---
 
-Improve your French learning experience with our [French Conjugation App]({{site.appStore.url}}). Practice more verbs and enhance your language skills on the go!
+Improve your French learning experience with our [Conjuga]({{site.appStore.url}}). Practice more verbs and enhance your language skills on the go!
 
 Stay tuned for more guides on French verb conjugations to boost your language learning journey!
